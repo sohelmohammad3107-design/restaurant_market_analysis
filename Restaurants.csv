@@ -1,0 +1,1441 @@
+Restaurants_Name,Rating,Cuisine,price,Location,Dining_times,Offers(%),Bank_Offer(%)
+AB's - Absolute Barbecues,4.5,AB's - Absolute Barbecues,1850,Hyderabad,Breakfast,0,0
+Mandi King Elite Arabian Restaurant,4.3,Mandi King Elite Arabian Restaurant,1000,Hyderabad,Dinner,10,25
+MOB - Belgium Beer House,4.0,MOB - Belgium Beer House,1500,Hyderabad,Breakfast,10,25
+Ping's Café Orient,4.0,Ping's Café Orient,1800,Hyderabad,Breakfast,10,25
+Garage Moto Cafe,4.0,Garage Moto Cafe,800,Hyderabad,Breakfast,10,25
+Saz Pizzeria,4.0,Saz Pizzeria,1000,Hyderabad,Lunch,10,25
+Candy cloud factory,4.0,Candy cloud factory,300,Hyderabad,Dinner,10,25
+Oraya Sky Lounge & Cafe,1.0,Oraya Sky Lounge & Cafe,1500,Hyderabad,Breakfast,25,25
+The Palm Banjara,3.0,The Palm Banjara,800,Hyderabad,Dinner,10,25
+Fiesta Multi Cuisine Restaurant,5.0,Fiesta Multi Cuisine Restaurant,900,Hyderabad,Lunch,35,25
+The House Of Koyilaa,4.7,The House Of Koyilaa,800,Hyderabad,Dinner,30,25
+The Terrace,5.0,The Terrace,1800,Hyderabad,Breakfast,30,25
+Sattvam,4.6,Sattvam,4000,Hyderabad,Breakfast,0,0
+Deccan Pavilion,3.5,Deccan Pavilion,2600,Hyderabad,Dinner,10,25
+Kebabs & Kurries,4.8,Kebabs & Kurries,3400,Hyderabad,Lunch,10,25
+Onesta,4.0,Onesta,600,Hyderabad,Lunch,20,25
+Tambo,4.5,Tambo,2500,Hyderabad,Lunch,0,25
+Golden Pavilion,2.7,Golden Pavilion,1500,Hyderabad,Breakfast,10,25
+Kadali Kitchen,4.3,Kadali Kitchen,1000,Hyderabad,Dinner,0,0
+Tiga,5.0,Tiga,3500,Hyderabad,Lunch,0,0
+Amara,4.5,Amara,5000,Hyderabad,Dinner,25,25
+Kinara Grand,4.0,Kinara Grand,1000,Hyderabad,Breakfast,20,25
+Post Card Global Tapas Bar,4.6,Post Card Global Tapas Bar,1400,Hyderabad,Dinner,40,25
+Sync Resto Bar,4.8,Sync Resto Bar,1300,Hyderabad,Lunch,15,25
+Zega ,4.5,Zega,3000,Hyderabad,Lunch,30,25
+Krispy Kreme,4.0,Krispy Kreme,350,Hyderabad,Lunch,15,25
+FEU - Dessert Bar & Kitchen,5.0,FEU - Dessert Bar & Kitchen,1400,Hyderabad,Breakfast,10,25
+Dakshin,4.4,Dakshin,3400,Hyderabad,Breakfast,10,25
+Cups N Plates,4.6,Cups N Plates,900,Hyderabad,Lunch,10,25
+Spice It ,3.2,Spice It,2400,Hyderabad,Lunch,50,25
+Marco Polo Bar,4.3,Marco Polo Bar,2700,Hyderabad,Lunch,10,25
+Esthio,4.1,Esthio,1150,Hyderabad,Lunch,10,25
+ASF - Ancient Stone Flames BBQ & Grill,4.3,ASF - Ancient Stone Flames BBQ & Grill,1800,Hyderabad,Breakfast,20,25
+Params Kitchen & Cafe,4.0,Params Kitchen & Cafe,600,Hyderabad,Lunch,10,25
+Patiala House,4.0,Patiala House,700,Hyderabad,Breakfast,10,25
+Deccan Cafe Restaurant ,4.0,Deccan Cafe Restaurant,800,Hyderabad,Dinner,10,25
+Moonlight Bar,2.7,Moonlight Bar,1200,Hyderabad,Dinner,15,25
+Aroma Multi Cuisine Restaurant,3.7,Aroma Multi Cuisine Restaurant,1200,Hyderabad,Dinner,35,25
+Insomnia,4.0,Insomnia,1500,Hyderabad,Lunch,25,25
+Heart Cup Coffee,3.9,Heart Cup Coffee,1600,Hyderabad,Breakfast,40,25
+Head Quarters Rest O Bar,1.0,Head Quarters Rest O Bar,1200,Hyderabad,Breakfast,20,25
+Hyderabad Mandi Restaurant ,4.0,Hyderabad Mandi Restaurant,450,Hyderabad,Breakfast,0,25
+Eagle Bar & Restaurant,5.0,Eagle Bar & Restaurant,1000,Hyderabad,Dinner,0,0
+Adi,5.0,Adi,2000,Hyderabad,Lunch,0,0
+Tamasha - Restro Cafe,4.2,Tamasha - Restro Cafe,800,Hyderabad,Breakfast,30,25
+Connect,1.0,Connect,1200,Hyderabad,Lunch,15,25
+The Foodstories Cafe,4.0,The Foodstories Cafe,1500,Hyderabad,Breakfast,0,0
+The Library Bar,4.0,The Library Bar,3500,Hyderabad,Lunch,0,0
+Prego,4.5,Prego,3500,Hyderabad,Breakfast,25,25
+Feast ,4.1,Feast,2400,Hyderabad,Lunch,30,25
+Link Cafe,4.7,Link Cafe,2000,Hyderabad,Lunch,20,25
+Barbeque Spice,3.8,Barbeque Spice,1500,Hyderabad,Breakfast,25,25
+MoMo Cafe,3.9,MoMo Cafe,2000,Hyderabad,Breakfast,20,25
+Shanghai Flavours Of China Town,4.0,Shanghai Flavours Of China Town,1000,Hyderabad,Lunch,30,25
+Amnesia Sky Bar,3.9,Amnesia Sky Bar,1500,Hyderabad,Dinner,15,25
+X Lounge Pub,3.5,X Lounge Pub,2000,Hyderabad,Dinner,50,25
+Southern Kitchen,4.5,Southern Kitchen,900,Hyderabad,Breakfast,20,25
+Naughty Kodi,3.5,Naughty Kodi,1500,Hyderabad,Lunch,35,25
+Food Exchange,4.3,Food Exchange,4500,Hyderabad,Lunch,50,25
+Kanak,4.5,Kanak,4500,Hyderabad,Breakfast,25,25
+Frosty Den,4.0,Frosty Den,500,Hyderabad,Breakfast,35,25
+Ta.Ma.Sha.  Veg Cafe Gunrock,4.3,Ta.Ma.Sha.  Veg Cafe Gunrock,800,Hyderabad,Breakfast,40,25
+Taco Bell,1.0,Taco Bell,550,Hyderabad,Lunch,0,0
+Black Pearl ,4.0,Black Pearl,800,Hyderabad,Breakfast,30,25
+Barbeque Holic,3.9,Barbeque Holic,1500,Hyderabad,Lunch,30,25
+Fusion 9,3.5,Fusion 9,1800,Hyderabad,Lunch,30,25
+Mairu Bistro,4.1,Mairu Bistro,1000,Hyderabad,Dinner,50,25
+Rasyumm ,3.4,Rasyumm,1000,Hyderabad,Breakfast,30,25
+Chirp,2.8,Chirp,1000,Hyderabad,Lunch,40,25
+Flechazo Gold,3.8,Flechazo Gold,2400,Hyderabad,Breakfast,35,25
+Haze Kitchen And Bar,3.3,Haze Kitchen And Bar,1800,Hyderabad,Breakfast,50,25
+La Milano Pizzeria,5.0,La Milano Pizzeria,600,Hyderabad,Breakfast,25,25
+Masterpiece,4.4,Masterpiece,3200,Hyderabad,Lunch,20,25
+Hoy Punjab,4.3,Hoy Punjab,1200,Hyderabad,Dinner,25,25
+Platform 65,4.3,Platform 65,800,Hyderabad,Dinner,35,25
+Ming Ustad,4.6,Ming Ustad,1500,Hyderabad,Dinner,25,25
+"TUYA – The South,Retold",4.3,"TUYA – The South,Retold",900,Hyderabad,Lunch,25,25
+Kangan,4.4,Kangan,2500,Hyderabad,Lunch,25,25
+Punjab Grill,3.6,Punjab Grill,1100,Hyderabad,Lunch,30,25
+Punjabi Swag,4.7,Punjabi Swag,800,Hyderabad,Breakfast,20,25
+The Mandi Nation,3.6,The Mandi Nation,800,Hyderabad,Breakfast,25,25
+The Globe Grub,4.2,The Globe Grub,1300,Hyderabad,Dinner,15,25
+Saffron Soul ,4.0,Saffron Soul,2500,Hyderabad,Breakfast,25,25
+Sounds & Spirits,3.6,Sounds & Spirits,1200,Hyderabad,Breakfast,35,25
+YouMee ,4.8,YouMee,1500,Hyderabad,Lunch,25,25
+63 Degree Modern Regional Buffet,4.1,63 Degree Modern Regional Buffet,2400,Hyderabad,Dinner,10,25
+Mamanori,4.5,Mamanori,1800,Hyderabad,Breakfast,35,25
+Nataka Global Kitchen And Cafe,4.0,Nataka Global Kitchen And Cafe,1500,Hyderabad,Dinner,20,25
+Seasonal Tastes ,4.6,Seasonal Tastes,3000,Hyderabad,Lunch,25,25
+Abids Bistro ,4.4,Abids Bistro,1200,Hyderabad,Breakfast,30,25
+Okra,3.8,Okra,2500,Hyderabad,Breakfast,30,25
+The Lal Street,3.6,The Lal Street,1900,Hyderabad,Lunch,50,25
+Bel Posto The Cafe,4.5,Bel Posto The Cafe,800,Hyderabad,Breakfast,50,25
+Oh! Calcutta,4.3,Oh! Calcutta,1600,Hyderabad,Lunch,15,25
+Ohri's Jiva,4.2,Ohri's Jiva,700,Hyderabad,Lunch,10,25
+Barkaas Indo-Arabic Restaurant,4.4,Barkaas Indo-Arabic Restaurant,600,Hyderabad,Dinner,15,25
+Veto Bar & Kitchen,4.5,Veto Bar & Kitchen,1800,Hyderabad,Breakfast,45,25
+Brewbite Bistro ,3.4,Brewbite Bistro,1000,Hyderabad,Breakfast,50,25
+Jonathan's Kitchen ,4.3,Jonathan's Kitchen,2800,Hyderabad,Breakfast,30,25
+Le Cafe,4.6,Le Cafe,1500,Hyderabad,Lunch,50,25
+7 Sisters,3.7,7 Sisters,600,Hyderabad,Breakfast,30,25
+Save The Tigers Bar & Kitchen,2.7,Save The Tigers Bar & Kitchen,1500,Hyderabad,Dinner,50,25
+Ohri's Gufaa,4.8,Ohri's Gufaa,1500,Hyderabad,Lunch,10,25
+Malnadu Kitchen,4.3,Malnadu Kitchen,900,Hyderabad,Lunch,20,25
+Renao Cafe & Bistro,3.9,Renao Cafe & Bistro,1200,Hyderabad,Lunch,25,25
+Milano Ice Cream,4.2,Milano Ice Cream,400,Hyderabad,Lunch,10,25
+TTeokBoKKi,5.0,TTeokBoKKi,1000,Hyderabad,Breakfast,30,25
+Chama Gaucha,4.1,Chama Gaucha,2200,Hyderabad,Lunch,40,25
+Mamagoto,4.1,Mamagoto,1200,Hyderabad,Dinner,20,25
+Taqila - The Club & Lounge,4.3,Taqila - The Club & Lounge,1600,Hyderabad,Dinner,40,25
+HIRO Pan Asian Bar & Kitchen,4.9,HIRO Pan Asian Bar & Kitchen,2000,Hyderabad,Dinner,25,25
+Minerva Coffee Shop,4.0,Minerva Coffee Shop,1200,Hyderabad,Lunch,30,25
+Squeeze @ The Lime,4.3,Squeeze @ The Lime,1200,Hyderabad,Breakfast,25,25
+Golden Spoon Cafe & Lounge,4.0,Golden Spoon Cafe & Lounge,300,Hyderabad,Dinner,10,25
+Daily Rituals,4.4,Daily Rituals,1300,Hyderabad,Dinner,20,25
+Kenny's ,5.0,Kenny's,1200,Hyderabad,Lunch,30,25
+Harley's Fine Baking,4.9,Harley's Fine Baking,600,Hyderabad,Breakfast,20,25
+Jasper,3.8,Jasper,2000,Hyderabad,Lunch,25,25
+Aidu,4.2,Aidu,2200,Hyderabad,Breakfast,20,25
+Blue Fox,3.0,Blue Fox,800,Hyderabad,Dinner,20,25
+Dhaba - Estd 1986 Delhi,4.3,Dhaba - Estd 1986 Delhi,1100,Hyderabad,Lunch,20,25
+Scotchman,4.0,Scotchman,1000,Hyderabad,Breakfast,25,25
+Pi ,3.6,Pi,2000,Hyderabad,Breakfast,25,25
+Mandi King Delite Arabian Restaurant,4.5,Mandi King Delite Arabian Restaurant,600,Hyderabad,Dinner,10,25
+Pavilion,3.8,Pavilion,800,Hyderabad,Lunch,25,25
+Punjabi Affair,3.7,Punjabi Affair,1100,Hyderabad,Lunch,25,25
+TGI Friday's,3.9,TGI Friday's,2500,Hyderabad,Breakfast,25,25
+Ohri's Sahib's Barbecue,4.0,Ohri's Sahib's Barbecue,2500,Hyderabad,Breakfast,20,25
+Delicia - Multicuisine Restaurant,3.9,Delicia - Multicuisine Restaurant,600,Hyderabad,Dinner,40,25
+Cara Cara,4.0,Cara Cara,1000,Hyderabad,Breakfast,50,25
+Mainland China,4.4,Mainland China,1600,Hyderabad,Lunch,15,25
+Roast N Toast,3.0,Roast N Toast,1500,Hyderabad,Dinner,35,25
+Amora Tapas,4.0,Amora Tapas,1200,Hyderabad,Breakfast,20,25
+Lakshmi's United Kitchen,3.9,Lakshmi's United Kitchen,1000,Hyderabad,Lunch,40,25
+Shiso Cafe & Lounge,5.0,Shiso Cafe & Lounge,800,Hyderabad,Breakfast,15,25
+Venue Restaurant,4.0,Venue Restaurant,1200,Hyderabad,Dinner,20,25
+Grill By The Pool,4.0,Grill By The Pool,2000,Hyderabad,Lunch,20,25
+Barley & Grapes Cafe Microbrewery,4.2,Barley & Grapes Cafe Microbrewery,2000,Hyderabad,Lunch,40,25
+Am Aha Telugu Kitchen and Bar,4.1,Am Aha Telugu Kitchen and Bar,1000,Hyderabad,Breakfast,20,25
+PA PA YA,5.0,PA PA YA,2000,Hyderabad,Breakfast,30,25
+The Hoppery,4.4,The Hoppery,1600,Hyderabad,Dinner,15,25
+Vivaha Bhojanambu,4.1,Vivaha Bhojanambu,1400,Hyderabad,Lunch,10,25
+Jammin Junction Bar & Kitchen,5.0,Jammin Junction Bar & Kitchen,2000,Hyderabad,Breakfast,30,25
+Destination Cafe,5.0,Destination Cafe,700,Hyderabad,Lunch,30,25
+Terra Cafe,3.3,Terra Cafe,1100,Hyderabad,Breakfast,20,25
+Vivaha Bhojnambu,3.4,Vivaha Bhojnambu,1400,Hyderabad,Breakfast,25,25
+Luno Lounge Bar & Kitchen,3.8,Luno Lounge Bar & Kitchen,1500,Hyderabad,Dinner,50,25
+Kavyam the telugu table,4.5,Kavyam the telugu table,1200,Hyderabad,Breakfast,10,25
+KNOX Club & Kitchen.,4.0,KNOX Club & Kitchen.,1500,Hyderabad,Breakfast,50,25
+RAGE Club & Kitchen,4.0,RAGE Club & Kitchen,800,Hyderabad,Dinner,50,25
+The Airawat Kitchen,5.0,The Airawat Kitchen,800,Hyderabad,Dinner,20,25
+Hotel Kass,4.7,Hotel Kass,1200,Hyderabad,Dinner,15,25
+Sesame - Asian & Himalayan Cuisine,4.7,Sesame - Asian & Himalayan Cuisine,1200,Hyderabad,Breakfast,10,25
+Samskruthi South Kitchen,4.6,Samskruthi South Kitchen,500,Hyderabad,Dinner,10,25
+Krishna's Kitchen,4.8,Krishna's Kitchen,1400,Hyderabad,Lunch,10,25
+PS4- Lord of the Pubs,4.5,PS4- Lord of the Pubs,1000,Hyderabad,Lunch,50,25
+Salvia,4.8,Salvia,800,Hyderabad,Breakfast,20,25
+Nidhi Ki Rasoi Se,4.2,Nidhi Ki Rasoi Se,1000,Hyderabad,Lunch,20,25
+Bistro Melaange,4.7,Bistro Melaange,600,Hyderabad,Lunch,10,25
+Marquee Club & Kitchen,3.0,Marquee Club & Kitchen,1600,Hyderabad,Dinner,50,25
+The Game Palacio,5.0,The Game Palacio,1800,Hyderabad,Lunch,30,25
+Simhapuri,4.3,Simhapuri,1200,Hyderabad,Breakfast,10,25
+Toast & Tonic Sky Bar,4.3,Toast & Tonic Sky Bar,1200,Hyderabad,Breakfast,50,25
+Ouvra Telugu Kitchen,4.0,Ouvra Telugu Kitchen,1000,Hyderabad,Breakfast,25,25
+Arambam- Flavours Of South,5.0,Arambam- Flavours Of South,350,Hyderabad,Dinner,15,25
+Pause Lounge Bar,2.7,Pause Lounge Bar,2100,Hyderabad,Dinner,50,25
+Globe Buffetio ,3.4,Globe Buffetio,1800,Hyderabad,Lunch,15,25
+Cuisinekraft,4.4,Cuisinekraft,1000,Hyderabad,Dinner,20,25
+District 150 by Quorum,4.0,District 150 by Quorum,2000,Hyderabad,Breakfast,10,25
+Over The Flow,4.7,Over The Flow,1000,Hyderabad,Dinner,15,25
+Ironhill Brewery,4.7,Ironhill Brewery,1900,Hyderabad,Lunch,10,25
+Theth Masala (Gandipet),4.3,Theth Masala (Gandipet),1600,Hyderabad,Breakfast,15,25
+Aathidyam,3.8,Aathidyam,600,Hyderabad,Breakfast,10,25
+Red Rhino Craft Brewery and Inspired Kitchen,4.3,Red Rhino Craft Brewery and Inspired Kitchen,2000,Hyderabad,Breakfast,10,25
+Firestone Grill Buffet,3.3,Firestone Grill Buffet,1800,Hyderabad,Lunch,20,25
+Flavours,4.0,Flavours,1100,Hyderabad,Lunch,15,25
+Zyng ,4.4,Zyng,2000,Hyderabad,Breakfast,20,25
+La Vie En Rose Cafe,4.6,La Vie En Rose Cafe,800,Hyderabad,Dinner,10,25
+Andhra Paris,4.0,Andhra Paris,400,Hyderabad,Lunch,20,25
+Tiger Lily Coffee & Bistro,4.0,Tiger Lily Coffee & Bistro,1200,Hyderabad,Dinner,15,25
+Baith Al Mandi,4.0,Baith Al Mandi,800,Hyderabad,Dinner,50,25
+Ukusa,4.8,Ukusa,800,Hyderabad,Breakfast,20,25
+Ce La Vie The Roof Top Cafe,5.0,Ce La Vie The Roof Top Cafe,700,Hyderabad,Dinner,10,25
+DEE The Bar,5.0,DEE The Bar,1600,Hyderabad,Lunch,20,25
+Ichata kitchen And Bar,5.0,Ichata kitchen And Bar,1200,Hyderabad,Dinner,20,25
+The Labyrinth Lakefront,4.5,The Labyrinth Lakefront,1100,Hyderabad,Lunch,10,25
+Istham Kitchen,4.0,Istham Kitchen,1200,Hyderabad,Dinner,20,25
+Citrus Cafe,4.2,Citrus Cafe,2000,Hyderabad,Breakfast,30,25
+Bloom Theory - The Lavender Room,4.0,Bloom Theory - The Lavender Room,900,Hyderabad,Breakfast,15,25
+Far East Asia Restaurant,5.0,Far East Asia Restaurant,400,Hyderabad,Dinner,10,25
+Good Vibes Only Cafe,4.4,Good Vibes Only Cafe,1000,Hyderabad,Breakfast,10,25
+Tonic & Tunes- Terrace Lounge,4.5,Tonic & Tunes- Terrace Lounge,1600,Hyderabad,Lunch,20,25
+Kaapiya,5.0,Kaapiya,600,Hyderabad,Lunch,20,25
+Tales of Telugu,3.6,Tales of Telugu,1400,Hyderabad,Dinner,20,25
+Full To Brim,4.7,Full To Brim,1500,Hyderabad,Lunch,10,25
+AnTeRa Kitchen & Bar,4.4,AnTeRa Kitchen & Bar,1500,Hyderabad,Lunch,10,25
+Vetro,3.8,Vetro,1800,Hyderabad,Lunch,30,25
+Turquoise,4.2,Turquoise,2500,Hyderabad,Lunch,30,25
+By The Bottle,3.8,By The Bottle,1000,Hyderabad,Dinner,50,25
+Yummy Bee Kondapur,4.5,Yummy Bee Kondapur,1000,Hyderabad,Breakfast,10,25
+Mezbaan - Authentic Vegetarian Restaurant,4.1,Mezbaan - Authentic Vegetarian Restaurant,1000,Hyderabad,Lunch,10,25
+Naidu Gari Kunda Biryani,4.5,Naidu Gari Kunda Biryani,700,Hyderabad,Breakfast,10,25
+Palamuru Grill,4.0,Palamuru Grill,1400,Hyderabad,Lunch,20,25
+Sorrel,4.6,Sorrel,900,Hyderabad,Lunch,10,25
+Noho,4.1,Noho,3000,Hyderabad,Dinner,20,25
+Kake Di Hatti,3.7,Kake Di Hatti,2000,Hyderabad,Lunch,20,25
+MudBrick - Kitchen & Bar,4.5,MudBrick - Kitchen & Bar,1200,Hyderabad,Dinner,15,25
+The Night Bird Bar & Cafe,3.9,The Night Bird Bar & Cafe,1500,Hyderabad,Breakfast,25,25
+Kake Di Hatti,4.3,Kake Di Hatti,1600,Hyderabad,Breakfast,20,25
+Ala Jubilee Lo - Telugu Kitchen & Bar,4.0,Ala Jubilee Lo - Telugu Kitchen & Bar,1800,Hyderabad,Lunch,10,25
+Krema Cafe,4.0,Krema Cafe,1000,Hyderabad,Dinner,10,25
+Utishta Pure Veg,4.8,Utishta Pure Veg,700,Hyderabad,Lunch,15,25
+Forge Breu Hous,5.0,Forge Breu Hous,1800,Hyderabad,Breakfast,20,25
+Mekong ,4.8,Mekong,3600,Hyderabad,Breakfast,10,25
+Asaa Neo-Indian kitchen,4.0,Asaa Neo-Indian kitchen,1500,Hyderabad,Dinner,25,25
+Cafe story,4.0,Cafe story,800,Hyderabad,Lunch,25,25
+Jathara,4.5,Jathara,1000,Hyderabad,Breakfast,15,25
+Kush Mandi,4.0,Kush Mandi,800,Hyderabad,Lunch,20,25
+Italia,5.0,Italia,2000,Hyderabad,Dinner,20,25
+Lattitude,4.5,Lattitude,1800,Hyderabad,Breakfast,30,25
+Holi Restaurant & Bar,4.8,Holi Restaurant & Bar,1000,Hyderabad,Lunch,20,25
+Soul Of South,3.0,Soul Of South,800,Hyderabad,Lunch,10,25
+Ta.Ma.Sha Veg Cafe ,4.0,Ta.Ma.Sha Veg Cafe,800,Hyderabad,Lunch,15,25
+Foodism By Ohri's,4.0,Foodism By Ohri's,800,Hyderabad,Lunch,15,25
+Via Milano,4.0,Via Milano,1300,Hyderabad,Dinner,15,25
+Devamrutham,4.0,Devamrutham,800,Hyderabad,Dinner,15,25
+Teluguness,3.0,Teluguness,800,Hyderabad,Breakfast,20,25
+Palamuru Grill,4.4,Palamuru Grill,1400,Hyderabad,Lunch,20,25
+Barkaas Indo-Arabic Restaurant,4.3,Barkaas Indo-Arabic Restaurant,1000,Hyderabad,Breakfast,20,25
+The Kadai Story,3.0,The Kadai Story,500,Hyderabad,Lunch,10,25
+Cava | Kebabs & Curries,4.0,Cava | Kebabs & Curries,1200,Hyderabad,Dinner,30,25
+Amoroso,4.0,Amoroso,1000,Hyderabad,Dinner,30,25
+Daily Treats,5.0,Daily Treats,3000,Hyderabad,Dinner,25,25
+Hard Rock Cafe,4.2,Hard Rock Cafe,1500,Hyderabad,Lunch,20,25
+Beyond The Tree,3.0,Beyond The Tree,600,Hyderabad,Dinner,10,25
+Rangularatnam Telugu Kitchen,2.0,Rangularatnam Telugu Kitchen,1200,Hyderabad,Breakfast,40,25
+3 Bro's Buffet,4.3,3 Bro's Buffet,1400,Hyderabad,Lunch,10,25
+Ahwana Bar & Kitchen,4.0,Ahwana Bar & Kitchen,1400,Hyderabad,Dinner,15,25
+Alley 91 Bowling Bar,4.0,Alley 91 Bowling Bar,1800,Hyderabad,Lunch,15,25
+Rajdhani,5.0,Rajdhani,1500,Hyderabad,Lunch,0,0
+Devara Multicuisine Restaurant,4.0,Devara Multicuisine Restaurant,500,Hyderabad,Dinner,20,25
+Cream Stop Cafe,4.0,Cream Stop Cafe,700,Hyderabad,Dinner,20,25
+Jade,4.7,Jade,1500,Hyderabad,Dinner,25,25
+Mamalola Penthouse,4.3,Mamalola Penthouse,1500,Hyderabad,Dinner,25,25
+Beyond Sushi,4.5,Beyond Sushi,1000,Hyderabad,Dinner,25,25
+Little Bittle ,4.5,Little Bittle,800,Hyderabad,Dinner,25,25
+The Bake Factory,5.0,The Bake Factory,1000,Hyderabad,Lunch,10,25
+Makau,4.2,Makau,2000,Hyderabad,Dinner,30,25
+De' Cafe Studio,5.0,De' Cafe Studio,500,Hyderabad,Dinner,50,25
+Robo Headquaters,4.0,Robo Headquaters,899,Hyderabad,Lunch,25,25
+The Sanctuary Bar and Kitchen,4.5,The Sanctuary Bar and Kitchen,2000,Hyderabad,Lunch,20,25
+Rü,3.0,Rü,3000,Hyderabad,Dinner,30,25
+Terrai - Neo Telangana Kitchen & Bar,5.0,Terrai - Neo Telangana Kitchen & Bar,2000,Hyderabad,Dinner,10,25
+Yummy Bee,5.0,Yummy Bee,1500,Hyderabad,Dinner,20,25
+Locale Cafe & Bistro,5.0,Locale Cafe & Bistro,1300,Hyderabad,Breakfast,20,25
+Airlive,4.1,Airlive,1500,Hyderabad,Lunch,50,25
+Yi Jing,4.8,Yi Jing,3000,Hyderabad,Dinner,10,25
+Signature Grills,4.2,Signature Grills,1400,Hyderabad,Lunch,0,0
+Clove Vegetarian Fine Dine Restaurant,4.5,Clove Vegetarian Fine Dine Restaurant,1500,Hyderabad,Dinner,20,25
+Urban Munchies,4.0,Urban Munchies,500,Hyderabad,Lunch,35,25
+Hotel Mayukha Jungle Theme Restaurant,3.5,Hotel Mayukha Jungle Theme Restaurant,1000,Hyderabad,Dinner,10,25
+Native Katha,4.4,Native Katha,600,Hyderabad,Dinner,30,25
+Qube Cafe,3.3,Qube Cafe,1200,Hyderabad,Breakfast,25,25
+Amritsar Haveli,4.3,Amritsar Haveli,1500,Hyderabad,Dinner,10,25
+Bezawada Junction,4.3,Bezawada Junction,1000,Hyderabad,Lunch,25,25
+Firewater Neo Bar & Kitchen,4.6,Firewater Neo Bar & Kitchen,1500,Hyderabad,Breakfast,30,25
+Stoic Brew,4.0,Stoic Brew,800,Hyderabad,Lunch,30,25
+N-Owl Club & Kitchen,5.0,N-Owl Club & Kitchen,1000,Hyderabad,Dinner,0,0
+Ulavacharu,4.8,Ulavacharu,1000,Hyderabad,Lunch,10,25
+Ambrouzia Modern Indian Kitchen,5.0,Ambrouzia Modern Indian Kitchen,1200,Hyderabad,Lunch,25,25
+Telangana Treats,3.8,Telangana Treats,700,Hyderabad,Dinner,15,25
+Komatose,4.2,Komatose,1500,Hyderabad,Dinner,15,25
+ANTHM,3.8,ANTHM,1900,Hyderabad,Lunch,20,25
+Kasoori- North Indian Rooftop Restaurant,4.0,Kasoori- North Indian Rooftop Restaurant,600,Hyderabad,Breakfast,20,25
+Theeram Kitchen,4.0,Theeram Kitchen,800,Hyderabad,Lunch,20,25
+Thrive Cafe,4.0,Thrive Cafe,800,Hyderabad,Lunch,20,25
+Wind Mist Coffee Camp,4.0,Wind Mist Coffee Camp,600,Hyderabad,Breakfast,20,25
+Huts & Hive,4.7,Huts & Hive,2000,Hyderabad,Lunch,20,25
+Teraaso - The Indian Social Bar,2.0,Teraaso - The Indian Social Bar,1400,Hyderabad,Breakfast,30,25
+Mix,3.0,Mix,1400,Hyderabad,Dinner,25,25
+Vaikuntapuram Restaurant,4.5,Vaikuntapuram Restaurant,1000,Hyderabad,Breakfast,10,25
+Nippon Kitsune,5.0,Nippon Kitsune,1195,Hyderabad,Lunch,15,25
+Indus,4.2,Indus,1500,Hyderabad,Lunch,25,25
+Peg Bro Lounge Bar and Kitchen,4.4,Peg Bro Lounge Bar and Kitchen,1500,Hyderabad,Breakfast,20,25
+Palamuru Grill & Bar - Kondapur,5.0,Palamuru Grill & Bar - Kondapur,1400,Hyderabad,Dinner,20,25
+Vedham Pure Vegetarian Restaurant,4.0,Vedham Pure Vegetarian Restaurant,900,Hyderabad,Dinner,15,25
+Chubby Cho,4.5,Chubby Cho,1200,Hyderabad,Dinner,10,25
+Jamun,5.0,Jamun,1800,Hyderabad,Breakfast,15,25
+Cu2 Brewhouse,4.3,Cu2 Brewhouse,2000,Hyderabad,Dinner,40,25
+Theth Masala (Tellapur),4.5,Theth Masala (Tellapur),1600,Hyderabad,Breakfast,15,25
+Verde,5.0,Verde,2000,Hyderabad,Breakfast,30,25
+ Antervedi Telugu Kitchen And Bar,4.4,Antervedi Telugu Kitchen And Bar,1400,Hyderabad,Breakfast,15,25
+FondOf - Coffee Lounge,4.5,FondOf - Coffee Lounge,1200,Hyderabad,Breakfast,15,25
+TuGo - Turpu Godavari,4.4,TuGo - Turpu Godavari,1200,Hyderabad,Dinner,10,25
+Tansen,4.8,Tansen,3000,Hyderabad,Breakfast,0,0
+Smaaash C2H5OH Bowling Sports Bar,4.0,Smaaash C2H5OH Bowling Sports Bar,1300,Hyderabad,Lunch,15,25
+Basil Bistro,4.0,Basil Bistro,500,Hyderabad,Dinner,25,25
+Dune- Bar & Kitchen,2.3,Dune- Bar & Kitchen,1500,Hyderabad,Lunch,25,25
+Cafe 1st Story,4.3,Cafe 1st Story,2000,Hyderabad,Breakfast,15,25
+Lazeez Affaire,5.0,Lazeez Affaire,2000,Hyderabad,Lunch,10,25
+M3 Mayukha Mughal Mandi Restaurant,4.0,M3 Mayukha Mughal Mandi Restaurant,800,Hyderabad,Dinner,15,25
+Mindspace Social,3.8,Mindspace Social,2000,Hyderabad,Dinner,20,25
+Raasta,4.5,Raasta,1200,Hyderabad,Breakfast,30,25
+The Happy Yard Bar & Kitchen,4.0,The Happy Yard Bar & Kitchen,1700,Hyderabad,Lunch,15,25
+e'woke - The Vegan Cafe,4.6,e'woke - The Vegan Cafe,800,Hyderabad,Lunch,10,25
+Makeba,4.0,Makeba,800,Hyderabad,Lunch,15,25
+Danish Cafe & Bakery,4.0,Danish Cafe & Bakery,500,Hyderabad,Dinner,15,25
+United Kitchens of India,4.4,United Kitchens of India,1000,Hyderabad,Dinner,0,0
+Asli,5.0,Asli,2500,Hyderabad,Lunch,0,0
+Kritaa Nagar,4.1,Kritaa Nagar,1400,Hyderabad,Lunch,15,25
+"Savya ,The South Indian Kitchen",1.0,"Savya ,The South Indian Kitchen",1500,Hyderabad,Lunch,30,25
+Spice And Sizzle By Karachi Bakery,5.0,Spice And Sizzle By Karachi Bakery,1500,Hyderabad,Dinner,10,25
+Hashi Izakaya,4.5,Hashi Izakaya,1000,Hyderabad,Dinner,10,25
+Uppu Telugu Kitchen,3.6,Uppu Telugu Kitchen,1200,Hyderabad,Breakfast,15,25
+White Ridge Kitchen,4.0,White Ridge Kitchen,600,Hyderabad,Lunch,30,25
+SWING LOUNGE,4.7,SWING LOUNGE,1800,Hyderabad,Dinner,40,25
+Forefathers Brewery Sainikpuri,5.0,Forefathers Brewery Sainikpuri,1500,Hyderabad,Dinner,0,0
+Zamindar Restaurant,5.0,Zamindar Restaurant,600,Hyderabad,Dinner,0,25
+Zero40,4.4,Zero40,3000,Hyderabad,Dinner,0,0
+Tiger Lily ,4.5,Tiger Lily,2400,Hyderabad,Dinner,10,25
+Yummy Bee Khajaguda,2.5,Yummy Bee Khajaguda,1000,Hyderabad,Breakfast,25,25
+Toscano,4.7,Toscano,1800,Hyderabad,Breakfast,10,25
+The Glass Onion,4.7,The Glass Onion,1800,Hyderabad,Lunch,10,25
+World of Tortillas ,5.0,World of Tortillas,600,Hyderabad,Breakfast,15,25
+Lush Cafe By The Lake,4.2,Lush Cafe By The Lake,700,Hyderabad,Breakfast,30,25
+The Hole In The Wall Cafe,2.7,The Hole In The Wall Cafe,1200,Hyderabad,Breakfast,15,25
+Skyhy Live,3.5,Skyhy Live,1800,Hyderabad,Breakfast,10,25
+3 Bears Cafe ,5.0,3 Bears Cafe,1000,Hyderabad,Dinner,15,25
+Ala Dakshinapuramlo,4.1,Ala Dakshinapuramlo,600,Hyderabad,Dinner,10,25
+House of Truly,5.0,House of Truly,600,Hyderabad,Dinner,10,25
+Taranga Restaurant,4.2,Taranga Restaurant,1100,Hyderabad,Lunch,10,25
+Co Canada Kitchens,4.8,Co Canada Kitchens,1200,Hyderabad,Lunch,20,25
+Mirell - The Vegetarian Voyage,4.7,Mirell - The Vegetarian Voyage,1000,Hyderabad,Dinner,10,25
+Kritunga - The Palegar's Cuisine,3.8,Kritunga - The Palegar's Cuisine,900,Hyderabad,Dinner,25,25
+Caffe Jubilee,4.0,Caffe Jubilee,1200,Hyderabad,Breakfast,10,25
+Maa Athidi Military Hotel,4.0,Maa Athidi Military Hotel,850,Hyderabad,Breakfast,10,25
+Blck Artisanal Brews & Bakehouse,4.0,Blck Artisanal Brews & Bakehouse,1000,Hyderabad,Breakfast,10,25
+Tiki Shack 2.0 – Rooftop Bar,4.0,Tiki Shack 2.0 – Rooftop Bar,1800,Hyderabad,Lunch,10,25
+Sip N Screen Cafe,5.0,Sip N Screen Cafe,500,Hyderabad,Lunch,20,25
+The Manohar Coffee Shop,4.0,The Manohar Coffee Shop,1200,Hyderabad,Breakfast,10,25
+Cascade,3.7,Cascade,2400,Hyderabad,Dinner,40,25
+Hotel Nakshatra Inn,4.0,Hotel Nakshatra Inn,800,Hyderabad,Lunch,15,25
+AnTeRa Courtyard,4.2,AnTeRa Courtyard,1200,Hyderabad,Dinner,30,25
+ILLU The Restaurant,4.2,ILLU The Restaurant,1200,Hyderabad,Dinner,10,25
+Isha Life Mahamudra,4.6,Isha Life Mahamudra,650,Hyderabad,Dinner,10,25
+Rocks,4.3,Rocks,2000,Hyderabad,Breakfast,15,25
+Anthe Kitchen,3.6,Anthe Kitchen,1200,Hyderabad,Dinner,15,25
+Qosa ,5.0,Qosa,2000,Hyderabad,Breakfast,10,25
+The Beer Cartel,4.4,The Beer Cartel,2000,Hyderabad,Lunch,15,25
+The GrandLine Buffet,3.8,The GrandLine Buffet,3800,Hyderabad,Dinner,25,25
+Ko Ko Kai,4.3,Ko Ko Kai,1200,Hyderabad,Lunch,20,25
+Salley By Shott ,4.0,Salley By Shott,1000,Hyderabad,Breakfast,15,25
+Samprada Authentic Kitchen & Bar,4.0,Samprada Authentic Kitchen & Bar,1200,Hyderabad,Dinner,15,25
+ATG - Across The Globe Cafe,4.0,ATG - Across The Globe Cafe,500,Hyderabad,Dinner,15,25
+The Sahib's,4.0,The Sahib's,700,Hyderabad,Breakfast,15,25
+Always Sunday Cafe & Bistro,5.0,Always Sunday Cafe & Bistro,1200,Hyderabad,Dinner,10,25
+Queens & Beans,3.7,Queens & Beans,1100,Hyderabad,Dinner,25,25
+Auspice,5.0,Auspice,1200,Hyderabad,Breakfast,10,25
+Ahoy Resto,5.0,Ahoy Resto,1700,Hyderabad,Dinner,10,25
+Palanadu Ruchulu,4.0,Palanadu Ruchulu,1000,Hyderabad,Dinner,15,25
+The Merchants,4.7,The Merchants,6000,Mumbai,Dinner,25,25
+Cray Craft,4.5,Cray Craft,2000,Mumbai,Lunch,10,25
+Ice Cream Works Gold,3.0,Ice Cream Works Gold,400,Mumbai,Breakfast,15,25
+Indriya Mishran,4.5,Indriya Mishran,1600,Mumbai,Dinner,30,25
+ChimiChurri,4.5,ChimiChurri,1700,Mumbai,Lunch,0,0
+Global Buffet,3.9,Global Buffet,1500,Mumbai,Breakfast,40,25
+ARC Powai- Lounge & Rooftop,4.6,ARC Powai- Lounge & Rooftop,1500,Mumbai,Dinner,20,25
+The Tipsy Tiger Garden Bar.,4.9,The Tipsy Tiger Garden Bar.,1100,Mumbai,Breakfast,20,25
+Mahesh Lunch Home,4.6,Mahesh Lunch Home,1200,Mumbai,Breakfast,10,25
+Peshawri,4.4,Peshawri,4000,Mumbai,Dinner,10,25
+SMOOR,4.7,SMOOR,600,Mumbai,Lunch,10,25
+The Stables ,4.3,The Stables,1500,Mumbai,Breakfast,15,25
+iaa by Tunga,4.6,iaa by Tunga,1200,Mumbai,Dinner,10,25
+Pink Pepper's Restaurant,4.0,Pink Pepper's Restaurant,1000,Mumbai,Breakfast,20,25
+Bombay High,4.8,Bombay High,2000,Mumbai,Lunch,0,0
+Teatro Restaurant & Bar,4.0,Teatro Restaurant & Bar,1000,Mumbai,Breakfast,10,25
+Angrezi Dhaba,3.8,Angrezi Dhaba,1100,Mumbai,Dinner,10,25
+Pop Tate's,4.6,Pop Tate's,2000,Mumbai,Lunch,0,0
+AB's - Absolute Barbecues,4.6,AB's - Absolute Barbecues,1850,Mumbai,Breakfast,0,0
+Powai Social,4.4,Powai Social,1500,Mumbai,Lunch,10,25
+The Lobby Lounge,5.0,The Lobby Lounge,2200,Mumbai,Dinner,10,25
+Spice It,2.9,Spice It,2500,Mumbai,Dinner,50,25
+Peshwa Pavilion,4.4,Peshwa Pavilion,4000,Mumbai,Dinner,0,0
+Amma's Restaurant & Bar,3.4,Amma's Restaurant & Bar,1000,Mumbai,Dinner,15,25
+Nosh & Beyond,4.4,Nosh & Beyond,1200,Mumbai,Breakfast,10,25
+Apna Dhaba,3.4,Apna Dhaba,800,Mumbai,Breakfast,10,25
+Bird's Cafe Bar And Bistro,4.6,Bird's Cafe Bar And Bistro,1000,Mumbai,Lunch,25,25
+House of Mandarin,4.4,House of Mandarin,1800,Mumbai,Breakfast,0,0
+The Barn Grill,5.0,The Barn Grill,1000,Mumbai,Breakfast,10,25
+Just Kerala,4.6,Just Kerala,850,Mumbai,Breakfast,10,25
+The Sassy Spoon,4.5,The Sassy Spoon,1800,Mumbai,Breakfast,0,0
+Spice It,3.2,Spice It,1700,Mumbai,Lunch,50,25
+Nebo Fête House,4.2,Nebo Fête House,1300,Mumbai,Breakfast,10,25
+Gopalas Veg Kitchen,4.0,Gopalas Veg Kitchen,800,Mumbai,Lunch,40,25
+The Beryl Club,4.0,The Beryl Club,2000,Mumbai,Lunch,30,25
+Make My Day,1.0,Make My Day,1100,Mumbai,Breakfast,15,25
+The Earth Plate - Global Cuisine ,4.3,The Earth Plate - Global Cuisine,4500,Mumbai,Dinner,25,25
+NUSARA Kitchen & Bar,4.2,NUSARA Kitchen & Bar,1500,Mumbai,Lunch,50,25
+Bombay Adda,4.8,Bombay Adda,1500,Mumbai,Lunch,0,0
+Northern Tadka,4.0,Northern Tadka,1500,Mumbai,Breakfast,10,25
+Blend N Brew,4.1,Blend N Brew,1200,Mumbai,Breakfast,35,25
+Mokabbi Cafe & Bistro,5.0,Mokabbi Cafe & Bistro,800,Mumbai,Dinner,20,25
+Sosho Kitchen & Bar,5.0,Sosho Kitchen & Bar,800,Mumbai,Breakfast,20,25
+Bombay Swim Club,5.0,Bombay Swim Club,4000,Mumbai,Lunch,20,25
+China Valley,4.1,China Valley,1200,Mumbai,Breakfast,0,0
+Dum Pukht,4.7,Dum Pukht,5000,Mumbai,Lunch,10,25
+Cafe Fleur,4.2,Cafe Fleur,1800,Mumbai,Lunch,50,25
+Kadak,4.0,Kadak,2500,Mumbai,Lunch,20,25
+Parabola,5.0,Parabola,3000,Mumbai,Breakfast,30,25
+Corkage & Co,4.7,Corkage & Co,1600,Mumbai,Dinner,10,25
+Aqua,4.1,Aqua,2500,Mumbai,Dinner,35,25
+South of Vindhyas,4.2,South of Vindhyas,2500,Mumbai,Dinner,25,25
+Roxanne's Bar & All Day Diner,4.0,Roxanne's Bar & All Day Diner,1800,Mumbai,Lunch,15,25
+Machhli (Flavors of the Sea),4.0,Machhli (Flavors of the Sea),600,Mumbai,Dinner,15,25
+Coco Café by Cococart,4.4,Coco Café by Cococart,800,Mumbai,Lunch,30,25
+Yura By Dragonfly Hotel,5.0,Yura By Dragonfly Hotel,1000,Mumbai,Lunch,10,25
+YI JING,4.4,YI JING,2500,Mumbai,Lunch,0,0
+Caravan Serai,2.5,Caravan Serai,1200,Mumbai,Lunch,20,25
+Amoeba Sports Bar,4.2,Amoeba Sports Bar,1300,Mumbai,Lunch,25,25
+Together & Co. by Hilton Garden Inn Mumbai International Airport,4.7,Together & Co. by Hilton Garden Inn Mumbai International Airport,3000,Mumbai,Lunch,25,25
+Jughead's,4.0,Jughead's,1700,Mumbai,Lunch,10,25
+Lalco Cafe,4.0,Lalco Cafe,1000,Mumbai,Lunch,10,25
+Good Flippin' Burgers,4.0,Good Flippin' Burgers,1100,Mumbai,Lunch,10,25
+Oishi Oishi,4.0,Oishi Oishi,1200,Mumbai,Breakfast,10,25
+Punjab Grill,4.0,Punjab Grill,1100,Mumbai,Breakfast,30,25
+Walters,4.0,Walters,1000,Mumbai,Lunch,15,25
+Bombay Martini,4.0,Bombay Martini,2500,Mumbai,Breakfast,20,25
+TAP ,4.0,TAP,1400,Mumbai,Lunch,0,0
+Naans & Noodles,4.5,Naans & Noodles,1300,Mumbai,Dinner,35,25
+The Square,4.4,The Square,3200,Mumbai,Dinner,25,25
+Urban Tadka,4.4,Urban Tadka,2500,Mumbai,Lunch,0,0
+West 1,4.1,West 1,2500,Mumbai,Lunch,35,25
+You Mee,4.3,You Mee,1500,Mumbai,Breakfast,30,25
+Silver Nest World Cuisine & Bar,5.0,Silver Nest World Cuisine & Bar,1400,Mumbai,Dinner,0,0
+Redbox Bar & Cafe,5.0,Redbox Bar & Cafe,1500,Mumbai,Lunch,0,0
+Ishaara,4.5,Ishaara,1400,Mumbai,Breakfast,30,25
+R.Irani Cafe,4.7,R.Irani Cafe,700,Mumbai,Breakfast,0,0
+Q Bar,4.7,Q Bar,2000,Mumbai,Lunch,0,0
+Boulevard,4.3,Boulevard,2500,Mumbai,Lunch,25,25
+CraftBar 2.0,3.7,CraftBar 2.0,1600,Mumbai,Lunch,0,0
+Love & Latte,4.0,Love & Latte,700,Mumbai,Dinner,0,0
+Make my day,4.0,Make my day,1100,Mumbai,Breakfast,0,0
+Cream Centre,4.3,Cream Centre,1100,Mumbai,Dinner,30,25
+Mainland China,4.6,Mainland China,1600,Mumbai,Lunch,15,25
+Rays Cafe & Pizzeria,4.9,Rays Cafe & Pizzeria,1100,Mumbai,Breakfast,20,25
+Sigree Global Grill,4.4,Sigree Global Grill,2000,Mumbai,Lunch,10,25
+Hunky Dory,3.9,Hunky Dory,1800,Mumbai,Dinner,30,25
+Dave & Buster's,4.8,Dave & Buster's,1200,Mumbai,Breakfast,30,25
+YouMee,3.9,YouMee,1200,Mumbai,Lunch,25,25
+Balsa,4.1,Balsa,1900,Mumbai,Dinner,40,25
+Global Coffee House & Eatery,4.0,Global Coffee House & Eatery,1000,Mumbai,Lunch,20,25
+Mirasa All Day Dining ,4.2,Mirasa All Day Dining,1000,Mumbai,Lunch,50,25
+Eve,4.6,Eve,2500,Mumbai,Lunch,10,25
+Aegyo Cafe & Bakehouse,4.0,Aegyo Cafe & Bakehouse,1650,Mumbai,Breakfast,25,25
+"The Sapphire, The Emerald Hotel",4.3,"The Sapphire, The Emerald Hotel",1000,Mumbai,Breakfast,25,25
+The Calcutta Club,3.6,The Calcutta Club,1000,Mumbai,Breakfast,15,25
+Blend Kitchen & Bar,5.0,Blend Kitchen & Bar,1500,Mumbai,Breakfast,25,25
+Cafe 49,4.4,Cafe 49,1100,Mumbai,Dinner,25,25
+The Game Palacio,4.3,The Game Palacio,1500,Mumbai,Lunch,40,25
+Loco Loca,4.2,Loco Loca,1500,Mumbai,Breakfast,15,25
+Mesa Bistro,4.4,Mesa Bistro,1500,Mumbai,Dinner,25,25
+Jamie's Pizzeria by Jamie Oliver,4.4,Jamie's Pizzeria by Jamie Oliver,2000,Mumbai,Dinner,25,25
+Tuskers,4.2,Tuskers,2500,Mumbai,Breakfast,25,25
+Combo Jumbo,4.6,Combo Jumbo,600,Mumbai,Dinner,25,25
+Trento,4.6,Trento,1200,Mumbai,Dinner,20,25
+Namak - Zaike Ka Safar,4.5,Namak - Zaike Ka Safar,4000,Mumbai,Dinner,25,25
+1441 Pizzeria,4.4,1441 Pizzeria,1000,Mumbai,Dinner,25,25
+Pondichery Cafe,4.3,Pondichery Cafe,2500,Mumbai,Dinner,20,25
+The Bluebop Cafe,4.5,The Bluebop Cafe,1200,Mumbai,Dinner,25,25
+Oh! Calcutta,4.7,Oh! Calcutta,1200,Mumbai,Dinner,15,25
+Jyran,4.4,Jyran,5000,Mumbai,Breakfast,30,25
+White Violet,3.5,White Violet,2000,Mumbai,Lunch,35,25
+Zaatar W Zeit,4.8,Zaatar W Zeit,600,Mumbai,Breakfast,20,25
+Spotlight Skydeck,4.4,Spotlight Skydeck,1400,Mumbai,Lunch,30,25
+Gadda Da Vida,4.0,Gadda Da Vida,2500,Mumbai,Lunch,25,25
+Solitaire Kitchen - Bar,3.0,Solitaire Kitchen - Bar,1600,Mumbai,Dinner,25,25
+The Chocolate Heaven,4.5,The Chocolate Heaven,800,Mumbai,Breakfast,20,25
+Flavors Café,4.1,Flavors Café,1200,Mumbai,Dinner,20,25
+Flavors,4.0,Flavors,1400,Mumbai,Lunch,25,25
+BKC Dive,3.7,BKC Dive,1200,Mumbai,Dinner,25,25
+The Lantern Bar at Kandeel,4.4,The Lantern Bar at Kandeel,1600,Mumbai,Breakfast,20,25
+Peshawari Grill,3.5,Peshawari Grill,1500,Mumbai,Dinner,10,25
+Bethom Cafe,5.0,Bethom Cafe,1000,Mumbai,Breakfast,15,25
+Streets of Calcutta,5.0,Streets of Calcutta,1500,Mumbai,Dinner,15,25
+Yuhi,4.1,Yuhi,1800,Mumbai,Breakfast,30,25
+Seven Kitchens,4.5,Seven Kitchens,4500,Mumbai,Breakfast,25,25
+Mostly Grills,4.1,Mostly Grills,2500,Mumbai,Breakfast,25,25
+Eat Around the Corner,4.8,Eat Around the Corner,2200,Mumbai,Dinner,15,25
+Not just Tamasha,4.8,Not just Tamasha,2200,Mumbai,Dinner,20,25
+Klove,5.0,Klove,1500,Mumbai,Dinner,25,25
+China Ming,4.4,China Ming,1500,Mumbai,Breakfast,10,25
+Zaika Fun Dining | Club Aquaria,4.2,Zaika Fun Dining | Club Aquaria,1200,Mumbai,Breakfast,30,25
+Mansionairre By The Roof,4.2,Mansionairre By The Roof,1500,Mumbai,Breakfast,40,25
+HITCHKI,4.5,HITCHKI,1200,Mumbai,Breakfast,0,0
+The Mint Leaf Kitchen N Bar,5.0,The Mint Leaf Kitchen N Bar,1500,Mumbai,Dinner,20,25
+The Little Easy,2.8,The Little Easy,2080,Mumbai,Breakfast,20,25
+Sampan,4.4,Sampan,3200,Mumbai,Dinner,25,25
+Coffee Connect ,4.8,Coffee Connect,1200,Mumbai,Dinner,15,25
+Tea Villa Cafe,4.0,Tea Villa Cafe,600,Mumbai,Dinner,15,25
+Taeesaheb Lunch Home,4.2,Taeesaheb Lunch Home,1200,Mumbai,Lunch,20,25
+Tanatan,4.5,Tanatan,1500,Mumbai,Breakfast,15,25
+The Indian Toss,4.1,The Indian Toss,1200,Mumbai,Breakfast,25,25
+The Square,4.6,The Square,2000,Mumbai,Breakfast,25,25
+Grey Cravings,4.0,Grey Cravings,2200,Mumbai,Breakfast,30,25
+Arbab,3.6,Arbab,2500,Mumbai,Dinner,15,25
+Meghdoot,4.6,Meghdoot,1200,Mumbai,Dinner,10,25
+Òsteria,4.4,Òsteria,1800,Mumbai,Dinner,15,25
+Angrezi Patiyalaa,4.1,Angrezi Patiyalaa,1600,Mumbai,Lunch,20,25
+The Coastal Tawa Eatery & Bar ,4.6,The Coastal Tawa Eatery & Bar,1000,Mumbai,Lunch,15,25
+Masala Madness,4.7,Masala Madness,2000,Mumbai,Lunch,15,25
+Merlin's Karaoke Bar,5.0,Merlin's Karaoke Bar,3000,Mumbai,Dinner,25,25
+The Courtyard Cafe,4.9,The Courtyard Cafe,900,Mumbai,Dinner,25,25
+Pizzeria The House Of Slice,4.4,Pizzeria The House Of Slice,400,Mumbai,Lunch,35,25
+Ferry Wharrf,4.7,Ferry Wharrf,1500,Mumbai,Dinner,10,25
+Imperial Spice Kitchen & Bar,3.9,Imperial Spice Kitchen & Bar,1100,Mumbai,Dinner,20,25
+Mi Casa Su Casa,4.0,Mi Casa Su Casa,1800,Mumbai,Lunch,50,25
+Hotel Redwings Castle,4.0,Hotel Redwings Castle,1200,Mumbai,Lunch,20,25
+Barrelborn ,3.3,Barrelborn,1500,Mumbai,Lunch,35,25
+Lotus Cafe,4.5,Lotus Cafe,2800,Mumbai,Dinner,25,25
+Waves Fusion Bar,4.0,Waves Fusion Bar,1200,Mumbai,Breakfast,20,25
+Navratree Prasad Pure Veg,5.0,Navratree Prasad Pure Veg,500,Mumbai,Lunch,15,25
+Mesa Deli,4.4,Mesa Deli,1500,Mumbai,Lunch,25,25
+"KEFI Eatery & Cafe, Versova",5.0,"KEFI Eatery & Cafe, Versova",1200,Mumbai,Dinner,20,25
+Nau Se Barah (9/12),4.1,Nau Se Barah (9/12),2000,Mumbai,Lunch,15,25
+World of Palates,4.0,World of Palates,1600,Mumbai,Breakfast,0,1
+Ebony Casual Diner,4.4,Ebony Casual Diner,1600,Mumbai,Breakfast,15,25
+The Atrangii House Sky Lounge,3.8,The Atrangii House Sky Lounge,1600,Mumbai,Breakfast,30,25
+HAV Coffee,4.9,HAV Coffee,800,Mumbai,Dinner,15,25
+The C Spot Cafe,4.7,The C Spot Cafe,700,Mumbai,Dinner,20,25
+Zodiac By ITC Fortune.,4.3,Zodiac By ITC Fortune.,2000,Mumbai,Lunch,30,25
+TAT,4.7,TAT,1600,Mumbai,Breakfast,10,25
+Musaafer,4.3,Musaafer,2000,Mumbai,Dinner,25,25
+Cafe Luna,5.0,Cafe Luna,800,Mumbai,Breakfast,20,25
+Moko Lounge,4.7,Moko Lounge,1800,Mumbai,Lunch,30,25
+The Oriental Blossom,4.4,The Oriental Blossom,2200,Mumbai,Breakfast,20,25
+PierONE By Monarch,4.3,PierONE By Monarch,1100,Mumbai,Breakfast,30,25
+Miro Lounge,3.8,Miro Lounge,1500,Mumbai,Dinner,25,25
+Sasarwadi,4.5,Sasarwadi,500,Mumbai,Lunch,25,25
+Boneto,4.1,Boneto,1250,Mumbai,Dinner,15,25
+Aloha Mumbai,4.0,Aloha Mumbai,1200,Mumbai,Breakfast,50,25
+Tiara Restaurant & Bar ,4.3,Tiara Restaurant & Bar,2500,Mumbai,Dinner,30,25
+All Saints ,3.9,All Saints,1750,Mumbai,Lunch,15,25
+Demy Bar + Kitchen,4.4,Demy Bar + Kitchen,2000,Mumbai,Dinner,25,25
+Kansar Kathiyawadi Thali Restaurant,4.4,Kansar Kathiyawadi Thali Restaurant,400,Mumbai,Breakfast,20,25
+Tales Of Tavern,4.5,Tales Of Tavern,1500,Mumbai,Lunch,35,25
+Firin,4.4,Firin,1000,Mumbai,Lunch,35,25
+Farzi Cafe,4.3,Farzi Cafe,1800,Mumbai,Breakfast,15,25
+Out of the Blue,4.6,Out of the Blue,2000,Mumbai,Dinner,15,25
+The Beer Cafe,3.9,The Beer Cafe,1800,Mumbai,Breakfast,30,25
+Sigree,4.2,Sigree,1200,Mumbai,Breakfast,15,25
+Koi Garden,4.0,Koi Garden,1250,Mumbai,Breakfast,20,25
+Revival,4.4,Revival,1200,Mumbai,Breakfast,30,25
+Brew House,4.3,Brew House,1500,Mumbai,Dinner,35,25
+Malvan Tadka,4.4,Malvan Tadka,1300,Mumbai,Lunch,15,25
+Miro,3.8,Miro,1500,Mumbai,Breakfast,20,25
+7 Isles,4.8,7 Isles,2200,Mumbai,Dinner,15,25
+Bombay Coffee House,4.7,Bombay Coffee House,900,Mumbai,Lunch,10,25
+Kofuku,4.6,Kofuku,2200,Mumbai,Dinner,10,25
+Mumbai Bites,5.0,Mumbai Bites,400,Mumbai,Lunch,10,25
+ Shy All-Day Café and Bar,4.1,Shy All-Day Café and Bar,1500,Mumbai,Dinner,10,25
+Portico,4.7,Portico,1000,Mumbai,Lunch,20,25
+Que Sera Sera,4.7,Que Sera Sera,2500,Mumbai,Lunch,10,25
+Vietnom,4.4,Vietnom,2000,Mumbai,Lunch,20,25
+Origami Japanese and Korean Restaurant,4.5,Origami Japanese and Korean Restaurant,2000,Mumbai,Lunch,15,25
+Altitude Ball In Ball Out,4.0,Altitude Ball In Ball Out,2100,Mumbai,Lunch,0,1
+Belly Laughs Bistro and Tap,4.6,Belly Laughs Bistro and Tap,1500,Mumbai,Dinner,40,25
+House of Ko,4.2,House of Ko,1500,Mumbai,Dinner,10,25
+Fisco Hub Restobar,4.3,Fisco Hub Restobar,1500,Mumbai,Lunch,25,25
+Mantoou The Asian Bistro,5.0,Mantoou The Asian Bistro,1000,Mumbai,Breakfast,20,25
+The Mint Leaf Lounge,2.7,The Mint Leaf Lounge,1500,Mumbai,Dinner,15,25
+The Bayview,4.2,The Bayview,2500,Mumbai,Breakfast,20,25
+Flute 24 Hrs,4.5,Flute 24 Hrs,2000,Mumbai,Dinner,20,25
+Banjara Dhaba,4.4,Banjara Dhaba,1300,Mumbai,Dinner,15,25
+Artisan ,4.1,Artisan,1000,Mumbai,Breakfast,20,25
+The Waves,5.0,The Waves,1200,Mumbai,Lunch,15,25
+Glitte The Veg Restro,4.0,Glitte The Veg Restro,1000,Mumbai,Dinner,25,25
+Sesame,4.4,Sesame,1800,Mumbai,Breakfast,40,25
+Huddle & Score,5.0,Huddle & Score,750,Mumbai,Dinner,20,25
+Home Chef- All Day Dining,4.1,Home Chef- All Day Dining,1000,Mumbai,Breakfast,20,25
+Saucier,2.0,Saucier,800,Mumbai,Breakfast,35,25
+Royal China,4.4,Royal China,2500,Mumbai,Dinner,15,25
+Surbhi Malvani Kitchen & Bar,4.0,Surbhi Malvani Kitchen & Bar,1500,Mumbai,Lunch,20,25
+Bira 91 Taproom,4.3,Bira 91 Taproom,1200,Mumbai,Dinner,30,25
+Maujja Restobar,4.4,Maujja Restobar,1500,Mumbai,Dinner,25,25
+The Houz - Kitchen & Bar,4.5,The Houz - Kitchen & Bar,1400,Mumbai,Lunch,20,25
+Lil Gamby Pizza Shop & Bar,5.0,Lil Gamby Pizza Shop & Bar,1500,Mumbai,Breakfast,10,25
+Sadak Chaap,4.6,Sadak Chaap,400,Mumbai,Dinner,10,25
+Faham,5.0,Faham,1250,Mumbai,Lunch,10,25
+Harley's Fine Baking,4.5,Harley's Fine Baking,600,Mumbai,Dinner,20,25
+Kohinoor Elite Restaurant,4.0,Kohinoor Elite Restaurant,1500,Mumbai,Lunch,30,25
+Someplace Else,4.1,Someplace Else,2500,Mumbai,Dinner,30,25
+Rude Lounge,3.9,Rude Lounge,1500,Mumbai,Lunch,25,25
+Turkey Junction,4.4,Turkey Junction,800,Mumbai,Dinner,10,25
+Ice Cream Works Gold,4.0,Ice Cream Works Gold,400,Mumbai,Dinner,15,25
+Razzberry Rhinoceros,4.1,Razzberry Rhinoceros,2000,Mumbai,Breakfast,15,25
+Oryn,3.9,Oryn,5000,Mumbai,Dinner,25,25
+Open Your Soda Bottle (OYSB),3.4,Open Your Soda Bottle (OYSB),1200,Mumbai,Breakfast,25,25
+vashi vibes,4.0,vashi vibes,1200,Mumbai,Breakfast,30,25
+East Asia,4.2,East Asia,1500,Mumbai,Dinner,15,25
+Zaika Fun Dining- Bhayander,4.4,Zaika Fun Dining- Bhayander,1000,Mumbai,Breakfast,25,25
+The Terrace - A Maiden Affair,3.9,The Terrace - A Maiden Affair,1600,Mumbai,Breakfast,15,25
+Rove cafe,5.0,Rove cafe,1000,Mumbai,Lunch,15,25
+Mia Cuccinna,4.3,Mia Cuccinna,2000,Mumbai,Lunch,30,25
+Moxy Kitchen,3.8,Moxy Kitchen,1200,Mumbai,Lunch,30,25
+The Goose & Gridiron,4.2,The Goose & Gridiron,1200,Mumbai,Dinner,15,25
+Kissa Stories Over Food,4.4,Kissa Stories Over Food,1500,Mumbai,Breakfast,20,25
+Salley's By Shott,5.0,Salley's By Shott,1000,Mumbai,Dinner,15,25
+The Atrangii House,4.5,The Atrangii House,1600,Mumbai,Dinner,25,25
+Beans & Bites,4.8,Beans & Bites,900,Mumbai,Breakfast,15,25
+KOA - Cafe & Bar,4.1,KOA - Cafe & Bar,1700,Mumbai,Breakfast,30,25
+Coffeescape,4.4,Coffeescape,1500,Mumbai,Dinner,15,25
+The Brooks Bistro,5.0,The Brooks Bistro,1000,Mumbai,Dinner,20,25
+Royal Treat Sip & Dine,4.0,Royal Treat Sip & Dine,1000,Mumbai,Dinner,25,25
+Le Bar Diamantaire,4.2,Le Bar Diamantaire,3000,Mumbai,Dinner,25,25
+Q Deck,3.6,Q Deck,1200,Mumbai,Breakfast,20,25
+Tamarind Restaurant & Poolside,4.2,Tamarind Restaurant & Poolside,2800,Mumbai,Dinner,15,25
+Flavours - All Day Dining,4.0,Flavours - All Day Dining,1700,Mumbai,Lunch,35,25
+Mini Punjab,4.5,Mini Punjab,1000,Mumbai,Breakfast,15,25
+Cafe Delhi Heights,4.5,Cafe Delhi Heights,2000,Mumbai,Dinner,15,25
+Udupi Shri Krishna,4.4,Udupi Shri Krishna,1000,Mumbai,Dinner,15,25
+Ooh Pitara! Bar and Kitchen,4.8,Ooh Pitara! Bar and Kitchen,1200,Mumbai,Dinner,10,25
+All Stir Fry,4.4,All Stir Fry,2100,Mumbai,Breakfast,10,25
+Taphaus Sports Bar,4.1,Taphaus Sports Bar,700,Mumbai,Breakfast,15,25
+Courtyard Pavilion,4.5,Courtyard Pavilion,3200,Mumbai,Breakfast,30,25
+Era,4.4,Era,1500,Mumbai,Lunch,10,25
+Journal Bombay,5.0,Journal Bombay,1000,Mumbai,Breakfast,20,25
+HIBACHII Dine and Banquets,4.3,HIBACHII Dine and Banquets,1000,Mumbai,Dinner,10,25
+Sunday The Comfort Kitchen,4.8,Sunday The Comfort Kitchen,1200,Mumbai,Lunch,20,25
+Caffe Allora,4.5,Caffe Allora,1300,Mumbai,Breakfast,25,25
+Rare Earth,5.0,Rare Earth,1300,Mumbai,Lunch,20,25
+Yazu - Pan Asian Supper Club,4.5,Yazu - Pan Asian Supper Club,1500,Mumbai,Breakfast,10,25
+The Food Foundry,4.2,The Food Foundry,1200,Mumbai,Dinner,10,25
+One Too Many,4.5,One Too Many,1000,Mumbai,Dinner,15,25
+The Global Adda,4.0,The Global Adda,1200,Mumbai,Lunch,20,25
+Facing East,4.3,Facing East,1100,Mumbai,Lunch,10,25
+Upper Deck,5.0,Upper Deck,1500,Mumbai,Dinner,10,25
+Mogo Korean Bakehouse + Speciality coffee,5.0,Mogo Korean Bakehouse + Speciality coffee,700,Mumbai,Breakfast,10,25
+The Food Studio,4.1,The Food Studio,1000,Mumbai,Lunch,15,25
+The Yoga House,4.9,The Yoga House,1400,Mumbai,Dinner,15,25
+Lubss Cafe Veg & Jain Juhu,2.3,Lubss Cafe Veg & Jain Juhu,1200,Mumbai,Lunch,15,25
+House of Maharashtra,3.8,House of Maharashtra,800,Mumbai,Dinner,15,25
+Malhar Lunch Home,4.3,Malhar Lunch Home,1100,Mumbai,Dinner,15,25
+Desi Firangi Family Restaurant & Bar,5.0,Desi Firangi Family Restaurant & Bar,1200,Mumbai,Dinner,10,25
+Soven Wine 'N' Dine,4.0,Soven Wine 'N' Dine,800,Mumbai,Lunch,15,25
+Dadar Retreat,5.0,Dadar Retreat,1000,Mumbai,Lunch,10,25
+Gosssip Corner Cafe Resto,4.4,Gosssip Corner Cafe Resto,1200,Mumbai,Dinner,25,25
+Donna Sky Lounge,4.4,Donna Sky Lounge,2000,Mumbai,Dinner,10,25
+By The Mekong,4.5,By The Mekong,5000,Mumbai,Breakfast,25,25
+Flavours of China,3.7,Flavours of China,850,Mumbai,Breakfast,15,25
+The Bombay Cartel,4.3,The Bombay Cartel,1800,Mumbai,Lunch,20,25
+Dakshin Culture Curry,4.0,Dakshin Culture Curry,1200,Mumbai,Breakfast,10,25
+Nagpal's Chole Bhature,4.3,Nagpal's Chole Bhature,500,Mumbai,Dinner,0,0
+ Navam Dining,3.6,Navam Dining,1000,Mumbai,Lunch,20,25
+Ambalchi Tadka,4.0,Ambalchi Tadka,1000,Mumbai,Lunch,25,25
+Czar ,4.0,Czar,1500,Mumbai,Dinner,30,25
+Coffee Island,5.0,Coffee Island,500,Mumbai,Lunch,20,25
+Kona Kona All Day Bar,4.7,Kona Kona All Day Bar,1500,Mumbai,Dinner,10,25
+Basil & Beans,4.6,Basil & Beans,1200,Mumbai,Dinner,15,25
+Mutuswami Cafe,4.1,Mutuswami Cafe,700,Mumbai,Lunch,15,25
+Butterfly High,4.4,Butterfly High,1500,Mumbai,Lunch,15,25
+Eight,4.5,Eight,2500,Mumbai,Dinner,30,25
+The Secret Plate,4.0,The Secret Plate,1200,Mumbai,Breakfast,25,25
+Hops Kitchen & Bar,4.3,Hops Kitchen & Bar,1500,Mumbai,Dinner,25,25
+Once Upon A Dine Cafe,4.4,Once Upon A Dine Cafe,750,Mumbai,Dinner,25,25
+O22,4.5,O22,2800,Mumbai,Lunch,15,25
+Kefi Boutique Cafe,5.0,Kefi Boutique Cafe,1150,Mumbai,Breakfast,15,25
+Port Kitchen & Bar,4.1,Port Kitchen & Bar,2000,Mumbai,Dinner,10,25
+Loccal Food And Bar,4.8,Loccal Food And Bar,1450,Mumbai,Dinner,10,25
+Connextions,4.3,Connextions,1800,Mumbai,Breakfast,25,25
+Rivaaz,4.4,Rivaaz,1100,Mumbai,Lunch,35,25
+China Bistro,4.6,China Bistro,1800,Mumbai,Lunch,20,25
+The Food Studio,4.3,The Food Studio,1600,Mumbai,Breakfast,15,25
+Regalia Family Lounge,4.0,Regalia Family Lounge,1000,Mumbai,Breakfast,10,25
+Sudama - All Veg,4.6,Sudama - All Veg,1200,Mumbai,Lunch,10,25
+Kojak,4.0,Kojak,1800,Mumbai,Dinner,20,25
+Naivedhya Veg Treat,4.0,Naivedhya Veg Treat,600,Mumbai,Dinner,10,25
+Eddie's cafe & Bar,4.5,Eddie's cafe & Bar,1200,Mumbai,Breakfast,20,25
+Amma's Veg,4.4,Amma's Veg,800,Mumbai,Lunch,15,25
+Sadda Punjab,3.8,Sadda Punjab,1000,Mumbai,Lunch,20,25
+Grandmama's Cafe,4.4,Grandmama's Cafe,1600,Mumbai,Dinner,10,25
+Baamee,4.0,Baamee,2500,Mumbai,Breakfast,20,25
+The Backyard Brew,4.4,The Backyard Brew,1200,Mumbai,Breakfast,10,25
+Goma,4.7,Goma,2000,Mumbai,Lunch,25,25
+Bayroute,4.8,Bayroute,3000,Mumbai,Breakfast,30,25
+Pokket Cafe,4.5,Pokket Cafe,835,Mumbai,Lunch,15,25
+The Rooftop,3.6,The Rooftop,2500,Mumbai,Breakfast,25,25
+Fable,4.3,Fable,2000,Mumbai,Dinner,10,25
+Double Vision- The Bar,4.0,Double Vision- The Bar,700,Mumbai,Dinner,25,25
+Charlee Goes Veg,4.5,Charlee Goes Veg,2500,Mumbai,Lunch,10,25
+Chin Chin Chu,4.5,Chin Chin Chu,2000,Mumbai,Dinner,10,25
+Dublin The Irish Bar,3.7,Dublin The Irish Bar,1600,Mumbai,Dinner,10,25
+Bayroute,4.1,Bayroute,3000,Mumbai,Breakfast,30,25
+Monarchy - The Lounge ,4.4,Monarchy - The Lounge,2000,Mumbai,Breakfast,25,25
+The Clearing House,4.6,The Clearing House,3000,Mumbai,Lunch,20,25
+Neelam E Punjab,4.0,Neelam E Punjab,1000,Mumbai,Dinner,25,25
+Taste of Coastal,5.0,Taste of Coastal,1000,Mumbai,Lunch,20,25
+Prasad Food Divine,4.4,Prasad Food Divine,800,Mumbai,Dinner,20,25
+Mercii,3.9,Mercii,3000,Mumbai,Lunch,15,25
+Asia Kitchen By Mainland China,4.3,Asia Kitchen By Mainland China,1600,Mumbai,Dinner,10,25
+Onrique,4.2,Onrique,3000,Mumbai,Breakfast,20,25
+Yauatcha,4.6,Yauatcha,2500,Mumbai,Lunch,10,25
+Cafe Quattro,3.6,Cafe Quattro,1200,Mumbai,Lunch,20,25
+Curry's & Cocktails,4.0,Curry's & Cocktails,1500,Mumbai,Lunch,15,25
+Jeon,4.3,Jeon,2500,Mumbai,Dinner,15,25
+Caspers Bar and Kitchen,3.8,Caspers Bar and Kitchen,1700,Mumbai,Lunch,40,25
+Cat Café Studio,4.0,Cat Café Studio,900,Mumbai,Dinner,15,25
+The Nawaabs,4.8,The Nawaabs,800,Mumbai,Breakfast,10,25
+Bluet - More Than A Cafe,5.0,Bluet - More Than A Cafe,1100,Mumbai,Dinner,35,25
+The Food Studio,5.0,The Food Studio,1600,Mumbai,Breakfast,15,25
+Indigo Spice,4.5,Indigo Spice,1500,Mumbai,Breakfast,15,25
+India Bistro,4.3,India Bistro,1800,Mumbai,Lunch,20,25
+Botticino,4.4,Botticino,3400,Mumbai,Breakfast,15,25
+Bombay Island Coffee Company,4.5,Bombay Island Coffee Company,1000,Mumbai,Breakfast,10,25
+Maiz Mexican Kitchen,4.4,Maiz Mexican Kitchen,650,Mumbai,Breakfast,20,25
+Naivedya - Veg Treat.,3.8,Naivedya - Veg Treat.,1300,Mumbai,Lunch,20,25
+Kamats legacy,4.4,Kamats legacy,600,Mumbai,Breakfast,10,25
+SodaBottleOpenerWala,4.5,SodaBottleOpenerWala,1300,Mumbai,Breakfast,0,0
+Tresind,4.7,Tresind,8000,Mumbai,Dinner,0,25
+The Society - Fine Dine  Restaurant,4.7,The Society - Fine Dine  Restaurant,1800,Mumbai,Dinner,20,25
+Tacolini Cafe & Restaurant,4.0,Tacolini Cafe & Restaurant,500,Mumbai,Dinner,30,25
+Mista Deli,4.0,Mista Deli,600,Channai,Lunch,30,25
+House Of Tandoor,4.7,House Of Tandoor,800,Channai,Dinner,10,25
+Limited Edition,5.0,Limited Edition,1200,Channai,Dinner,50,25
+Zodiac,4.0,Zodiac,2000,Channai,Dinner,20,25
+Zaafrin's Mandi House,5.0,Zaafrin's Mandi House,1000,Channai,Breakfast,25,25
+ Zoo Cafe ,5.0,Zoo Cafe,500,Channai,Dinner,25,25
+Khalid's Biryani,1.0,Khalid's Biryani,600,Channai,Dinner,20,25
+Bay 146,4.1,Bay 146,1500,Channai,Lunch,15,25
+Tasty China,4.5,Tasty China,800,Channai,Breakfast,10,25
+Sulthan's Biryani,3.9,Sulthan's Biryani,600,Channai,Breakfast,10,25
+Pulusu Ruchulu,4.1,Pulusu Ruchulu,750,Channai,Lunch,25,25
+The Red Box,5.0,The Red Box,500,Channai,Lunch,15,25
+Carnaby | Global Comfort Food,3.7,Carnaby | Global Comfort Food,2500,Channai,Breakfast,20,25
+Aloe,4.4,Aloe,1000,Channai,Breakfast,25,25
+Royal Palate,3.8,Royal Palate,2000,Channai,Lunch,35,25
+Hundreds Bistro,5.0,Hundreds Bistro,1300,Channai,Dinner,20,25
+Gully Baar,4.2,Gully Baar,1200,Channai,Breakfast,30,25
+Unwind,4.0,Unwind,1300,Channai,Dinner,35,25
+Soul Garden Bistro,4.2,Soul Garden Bistro,800,Channai,Lunch,15,25
+Alchemy Bar & Lounge,4.1,Alchemy Bar & Lounge,1500,Channai,Lunch,15,25
+ Zing - Rooftop,4.1,Zing - Rooftop,1500,Channai,Dinner,30,25
+The Manam-Shelter Beach Resort,4.0,The Manam-Shelter Beach Resort,1500,Channai,Breakfast,15,25
+Pluto's Restaurant,4.3,Pluto's Restaurant,900,Channai,Lunch,15,25
+Take 2,4.5,Take 2,1000,Channai,Breakfast,10,25
+Somapuraa,5.0,Somapuraa,2000,Channai,Breakfast,20,25
+Ciclo Cafe,5.0,Ciclo Cafe,1500,Channai,Dinner,10,25
+Aasife Biriyani,5.0,Aasife Biriyani,600,Channai,Lunch,20,25
+Glow Cafe,4.2,Glow Cafe,1000,Channai,Dinner,20,25
+Gelarto,4.0,Gelarto,400,Channai,Breakfast,15,25
+Knot & Nosh,4.0,Knot & Nosh,700,Channai,Dinner,15,25
+Cibo,4.3,Cibo,1000,Channai,Dinner,30,25
+The Coastal Taste Family Restaurant,5.0,The Coastal Taste Family Restaurant,1000,Channai,Lunch,20,25
+Chamber Of Potions,2.7,Chamber Of Potions,1850,Channai,Breakfast,20,25
+Hotel Sangamitra,3.0,Hotel Sangamitra,800,Channai,Dinner,20,25
+The Lobby Cafe,3.5,The Lobby Cafe,2000,Channai,Lunch,10,25
+Malgudi,4.5,Malgudi,1800,Channai,Lunch,15,25
+Café XO,4.0,Café XO,1000,Channai,Dinner,30,25
+Score Bar & Grill,4.0,Score Bar & Grill,3200,Channai,Lunch,35,25
+Citrus Cafe,4.5,Citrus Cafe,1700,Channai,Breakfast,25,25
+Haven Sampoorna,4.9,Haven Sampoorna,3000,Channai,Breakfast,10,25
+Thanjai Veeraswamy,2.5,Thanjai Veeraswamy,1000,Channai,Dinner,20,25
+Bhatinda Xpress ,4.3,Bhatinda Xpress,1000,Channai,Lunch,10,25
+Cafe Yelove,4.0,Cafe Yelove,700,Channai,Breakfast,10,25
+Nicky's Cafe & Fine Pastries,4.0,Nicky's Cafe & Fine Pastries,700,Channai,Lunch,20,25
+The Empire Restaurant,4.7,The Empire Restaurant,1000,Channai,Lunch,25,25
+Madharas - Global Veg Kitchen,4.6,Madharas - Global Veg Kitchen,1000,Channai,Lunch,10,25
+Kappa Chakka Kandhari,4.5,Kappa Chakka Kandhari,1600,Channai,Breakfast,0,0
+Double Roti,4.3,Double Roti,1000,Channai,Dinner,20,25
+Patissez Express,3.9,Patissez Express,800,Channai,Lunch,25,25
+Chap Chay ,4.4,Chap Chay,2500,Channai,Dinner,20,25
+Canvas,5.0,Canvas,1600,Channai,Dinner,10,25
+Vapor,4.0,Vapor,2000,Channai,Breakfast,15,25
+Soroco,3.5,Soroco,1300,Channai,Lunch,15,25
+Samudra Restaurant ,3.5,Samudra Restaurant,600,Channai,Dinner,20,25
+Sunset Place,4.0,Sunset Place,800,Channai,Lunch,25,25
+Welcomcafe Crossandra,4.2,Welcomcafe Crossandra,2500,Channai,Dinner,10,25
+Mohan's Kitchen,4.0,Mohan's Kitchen,700,Channai,Breakfast,10,25
+Pandan Club,4.8,Pandan Club,1700,Channai,Breakfast,20,25
+The Neighborhood Bar ,4.0,The Neighborhood Bar,1500,Channai,Breakfast,25,25
+Barbeque Nation,4.3,Barbeque Nation,1800,Channai,Lunch,0,0
+Surf Turf,4.5,Surf Turf,1000,Channai,Breakfast,10,25
+Calicut Restaurant,4.8,Calicut Restaurant,1000,Channai,Breakfast,10,25
+Little Italy ,4.4,Little Italy,1200,Channai,Dinner,10,25
+Amora,4.0,Amora,1000,Channai,Dinner,10,25
+AB's - Absolute Barbecues,4.3,AB's - Absolute Barbecues,1800,Channai,Lunch,0,0
+Urawok,4.5,Urawok,1000,Channai,Lunch,20,25
+The Living Room,4.4,The Living Room,1200,Channai,Breakfast,10,25
+Origami,4.5,Origami,1600,Channai,Dinner,20,25
+Meenam,3.7,Meenam,1100,Channai,Dinner,10,25
+Hard Rock Cafe,4.3,Hard Rock Cafe,1500,Channai,Dinner,0,0
+Gardenia,4.1,Gardenia,1550,Channai,Breakfast,15,25
+Park Brasserie,5.0,Park Brasserie,3000,Channai,Lunch,15,25
+Absolute Thai,4.2,Absolute Thai,1000,Channai,Dinner,15,25
+Bezto Cafe,3.0,Bezto Cafe,700,Channai,Lunch,35,25
+Bistro by POD,5.0,Bistro by POD,600,Channai,Breakfast,25,25
+The High Lounge Bar,1.3,The High Lounge Bar,1500,Channai,Dinner,10,25
+Z Bar,5.0,Z Bar,1300,Channai,Breakfast,25,25
+Famous Theory,5.0,Famous Theory,1200,Channai,Lunch,25,25
+Virunthombal Chettinadu Restaurant,4.8,Virunthombal Chettinadu Restaurant,1000,Channai,Breakfast,15,25
+The Chettinad Stories,5.0,The Chettinad Stories,1000,Channai,Lunch,10,25
+Jalpaan,4.4,Jalpaan,1300,Channai,Breakfast,30,25
+Secret Story ,3.8,Secret Story,2700,Channai,Dinner,20,25
+Jekyll & Hyde Resto Club,4.0,Jekyll & Hyde Resto Club,1800,Channai,Dinner,20,25
+Yaa Mohaideen Biryani,4.0,Yaa Mohaideen Biryani,1000,Channai,Lunch,15,25
+Ottimo Cucina Italiana,4.4,Ottimo Cucina Italiana,6500,Channai,Breakfast,0,0
+11:11 Reserve,5.0,11:11 Reserve,1000,Channai,Lunch,0,0
+Quintessence,1.7,Quintessence,1500,Channai,Lunch,15,25
+Amelie's Cafe And Creamery,4.8,Amelie's Cafe And Creamery,1000,Channai,Breakfast,15,25
+Protein Xclusive,4.0,Protein Xclusive,600,Channai,Breakfast,20,25
+LMU-Let's Meet Up,4.0,LMU-Let's Meet Up,1100,Channai,Breakfast,20,25
+House of Mokka,4.0,House of Mokka,700,Channai,Breakfast,20,25
+Time Cafe,4.0,Time Cafe,1000,Channai,Breakfast,20,25
+Sharief Bhai Biryani,3.5,Sharief Bhai Biryani,600,Channai,Dinner,30,25
+DOU- Nungambakkam,5.0,DOU- Nungambakkam,800,Channai,Dinner,0,0
+Paradise Biryani - A Legend since 1953,5.0,Paradise Biryani - A Legend since 1953,800,Channai,Lunch,15,25
+The Bistrograph,4.1,The Bistrograph,1000,Channai,Breakfast,10,25
+Crafe,5.0,Crafe,1000,Channai,Breakfast,0,0
+Sudaka,1.5,Sudaka,1500,Channai,Lunch,15,25
+Spread Fine Dine,4.6,Spread Fine Dine,1100,Channai,Lunch,15,25
+Hibiscus Cafe,4.6,Hibiscus Cafe,1000,Channai,Breakfast,10,25
+Amethyst - Wild Garden Cafe ,4.4,Amethyst - Wild Garden Cafe,1200,Channai,Breakfast,0,0
+Petals,3.7,Petals,2000,Channai,Breakfast,20,25
+Swiss Hutte Cafe,4.6,Swiss Hutte Cafe,1000,Channai,Breakfast,0,0
+Bhola & Blonde ,3.5,Bhola & Blonde,2600,Channai,Dinner,20,25
+Mathsya ,4.4,Mathsya,1000,Channai,Breakfast,10,25
+The Alcove Family Restaurant,2.0,The Alcove Family Restaurant,1200,Channai,Breakfast,20,25
+Peshawri ,4.4,Peshawri,6500,Channai,Lunch,10,25
+The Godown Bar,4.6,The Godown Bar,1400,Channai,Breakfast,30,25
+Arabian Garden Seafood Restaurant,4.6,Arabian Garden Seafood Restaurant,1100,Channai,Breakfast,10,25
+Roger That,4.0,Roger That,1000,Channai,Dinner,25,25
+The New Punjab Club,4.6,The New Punjab Club,1599,Channai,Lunch,0,0
+Anu's Punjabi Dhaba,4.3,Anu's Punjabi Dhaba,1600,Channai,Breakfast,15,25
+Café Manana,4.5,Café Manana,1300,Channai,Dinner,0,0
+Tamarillo,5.0,Tamarillo,1000,Channai,Breakfast,20,25
+Little Soi,4.0,Little Soi,1000,Channai,Dinner,0,0
+The Beach Terrace - Bay | Bar | Kitchen,3.8,The Beach Terrace - Bay | Bar | Kitchen,2000,Channai,Lunch,10,25
+Korkai,4.2,Korkai,1400,Channai,Lunch,10,25
+Big Bull Lounge,4.5,Big Bull Lounge,1000,Channai,Breakfast,30,25
+22 Constanzaa,4.8,22 Constanzaa,1200,Channai,Dinner,15,25
+Vintage Bank ,4.4,Vintage Bank,2000,Channai,Dinner,20,25
+Double Roti,4.0,Double Roti,800,Channai,Lunch,25,25
+Cafe Arabica,4.8,Cafe Arabica,800,Channai,Dinner,10,25
+Dindigul Thalappakatti,4.0,Dindigul Thalappakatti,950,Channai,Dinner,0,0
+Teru – South Indian Street Food,4.0,Teru – South Indian Street Food,250,Channai,Lunch,15,25
+Daily Drip Cafe,4.0,Daily Drip Cafe,1000,Channai,Breakfast,15,25
+Brewniverse ,4.0,Brewniverse,350,Channai,Breakfast,15,25
+Shaack,5.0,Shaack,1200,Channai,Dinner,10,25
+Savoury Sea Shell,4.4,Savoury Sea Shell,800,Channai,Lunch,10,25
+Cake Walk Cafe,5.0,Cake Walk Cafe,1200,Channai,Breakfast,10,25
+Dinevo ,5.0,Dinevo,500,Channai,Lunch,10,25
+Cocomaya,2.8,Cocomaya,2600,Channai,Breakfast,20,25
+Zebra Crossing,4.1,Zebra Crossing,1000,Channai,Breakfast,20,25
+Sage and Lavender,4.4,Sage and Lavender,1200,Channai,Lunch,20,25
+Shout Bar & Cafe,4.4,Shout Bar & Cafe,1400,Channai,Dinner,20,25
+Taaze,5.0,Taaze,500,Channai,Breakfast,15,25
+Truffles,1.0,Truffles,500,Channai,Lunch,20,25
+Yakebab,4.5,Yakebab,650,Channai,Lunch,10,25
+365 A.S. ,4.4,365 A.S.,2500,Channai,Dinner,10,25
+Pacifica,4.4,Pacifica,1080,Channai,Lunch,10,25
+Vintage Madras Restaurant,4.0,Vintage Madras Restaurant,600,Channai,Breakfast,10,25
+Bike & Barrel,3.8,Bike & Barrel,2300,Channai,Dinner,10,25
+The Vibe,3.7,The Vibe,1000,Channai,Dinner,30,25
+Savya Rasa,4.6,Savya Rasa,1200,Channai,Breakfast,0,0
+Piano,3.2,Piano,1600,Channai,Dinner,0,0
+Nasi and Mee,4.7,Nasi and Mee,1000,Channai,Breakfast,0,0
+Ponnusamy Hotel Elite,3.8,Ponnusamy Hotel Elite,600,Channai,Breakfast,10,25
+Annam Cafe,4.5,Annam Cafe,1200,Channai,Dinner,30,25
+Aazhi - The Seafood Restaurant,3.0,Aazhi - The Seafood Restaurant,800,Channai,Lunch,15,25
+Pep Asia,4.0,Pep Asia,900,Channai,Lunch,10,25
+Annachi's Kitchen,4.0,Annachi's Kitchen,500,Channai,Dinner,30,25
+Strictly Desserts,4.0,Strictly Desserts,400,Channai,Dinner,10,25
+Pally Tastei Food,4.0,Pally Tastei Food,250,Channai,Dinner,10,25
+Millet Maagic Meal,4.0,Millet Maagic Meal,800,Channai,Dinner,10,25
+Kunafa World,4.0,Kunafa World,400,Channai,Lunch,10,25
+Chai Sutta Bar,4.0,Chai Sutta Bar,350,Channai,Dinner,10,25
+Davrah Coffee,4.0,Davrah Coffee,300,Channai,Lunch,10,25
+ID- Kilpauk,4.0,ID- Kilpauk,400,Channai,Breakfast,10,25
+Exotic Food Company,4.0,Exotic Food Company,800,Channai,Dinner,10,25
+Madras Donne Briyani,4.0,Madras Donne Briyani,600,Channai,Lunch,10,25
+Flavours,4.0,Flavours,1500,Channai,Lunch,10,25
+Dessertino,4.0,Dessertino,500,Channai,Breakfast,10,25
+ Millet Maagic Meal,1.0,Millet Maagic Meal,800,Channai,Lunch,25,25
+Italiano,4.5,Italiano,500,Channai,Lunch,20,25
+A2,4.1,A2,2500,Channai,Dinner,25,25
+The Freshlymade,4.8,The Freshlymade,700,Channai,Dinner,20,25
+Falooda Nation,3.8,Falooda Nation,500,Channai,Lunch,10,25
+ID-Vadapalani,5.0,ID-Vadapalani,500,Channai,Breakfast,20,25
+Gossip Bistro,4.5,Gossip Bistro,1100,Channai,Dinner,10,25
+The Cake Shop,4.0,The Cake Shop,3000,Channai,Lunch,25,25
+Alexandria Tavern,3.3,Alexandria Tavern,1800,Channai,Breakfast,10,25
+On The Rocks,3.7,On The Rocks,500,Channai,Breakfast,10,25
+Foodaholic Restaurant,5.0,Foodaholic Restaurant,1000,Channai,Lunch,10,25
+Divine Dine,5.0,Divine Dine,1200,Channai,Dinner,20,25
+Tuscana Pizzeria,3.5,Tuscana Pizzeria,1500,Channai,Breakfast,10,25
+Chili’s Grill & Bar,3.8,Chili’s Grill & Bar,1700,Channai,Dinner,15,25
+La Baguette,4.0,La Baguette,800,Channai,Breakfast,15,25
+Yellow Chilli,4.0,Yellow Chilli,1000,Channai,Breakfast,15,25
+Hamsa,4.6,Hamsa,1400,Channai,Breakfast,0,0
+Crust & Co,5.0,Crust & Co,1200,Channai,Lunch,10,25
+Penang By Crystal Woo,3.0,Penang By Crystal Woo,1000,Channai,Dinner,0,0
+Navaratna ,3.9,Navaratna,2200,Channai,Lunch,35,25
+Igloo,3.9,Igloo,1400,Channai,Lunch,20,25
+Soy Soi,4.5,Soy Soi,1400,Channai,Dinner,0,0
+Million Drinks,1.5,Million Drinks,1500,Channai,Lunch,35,25
+Copper Chimney,4.4,Copper Chimney,1600,Channai,Lunch,0,0
+Porca & Vaca,4.0,Porca & Vaca,2400,Channai,Dinner,0,0
+Ze Flavours Cafe,4.5,Ze Flavours Cafe,1200,Channai,Dinner,10,25
+Rooftop By Orange Coconut,4.0,Rooftop By Orange Coconut,1500,Channai,Breakfast,30,25
+Jaypuri ,4.0,Jaypuri,1000,Channai,Dinner,30,25
+The MasterKey,3.0,The MasterKey,1200,Channai,Lunch,35,25
+Namma Shack,4.7,Namma Shack,2500,Channai,Dinner,25,25
+Zodiac- All Day Dining,3.7,Zodiac- All Day Dining,1500,Channai,Lunch,15,25
+Pirate Cafe 1001,4.0,Pirate Cafe 1001,600,Channai,Lunch,30,25
+T Nagar Park Restaurant,3.0,T Nagar Park Restaurant,1100,Channai,Breakfast,10,25
+GameOn Cafe,2.0,GameOn Cafe,850,Channai,Lunch,15,25
+Mex It Up - World On A Plate,4.5,Mex It Up - World On A Plate,1000,Channai,Lunch,15,25
+CAFE 1st STORY,4.0,CAFE 1st STORY,1000,Channai,Breakfast,10,25
+Teppan,4.6,Teppan,2000,Channai,Dinner,0,0
+Rajabhogam,4.0,Rajabhogam,1000,Channai,Dinner,10,25
+No Name ,4.0,No Name,1800,Channai,Breakfast,20,25
+Protein Xclusive,4.0,Protein Xclusive,600,Channai,Breakfast,20,25
+Salt-Indian restaurant,4.2,Salt-Indian restaurant,1200,Channai,Breakfast,15,25
+The Waterfall Restaurant,4.5,The Waterfall Restaurant,1500,Channai,Dinner,0,0
+Brews & Beyond,5.0,Brews & Beyond,800,Channai,Dinner,15,25
+Queen's Bar,5.0,Queen's Bar,1000,Channai,Lunch,0,0
+Erode Kongu Mess,4.0,Erode Kongu Mess,800,Channai,Dinner,0,0
+The Chamiers - Deli Shop,5.0,The Chamiers - Deli Shop,800,Channai,Breakfast,15,25
+Fifth Sense,4.2,Fifth Sense,1000,Channai,Dinner,20,25
+DOU,4.8,DOU,700,Channai,Lunch,0,0
+Hotel Apoorvaa,4.5,Hotel Apoorvaa,600,Channai,Breakfast,25,25
+Little Soi,5.0,Little Soi,800,Channai,Lunch,0,0
+Cocktail Bar By Kipling,4.2,Cocktail Bar By Kipling,1000,Channai,Lunch,25,25
+PHO SHI,4.6,PHO SHI,1200,Channai,Lunch,0,0
+Tovo Navalur,4.0,Tovo Navalur,800,Channai,Dinner,10,25
+Cocoa & Creme Rooftop Cafe,4.2,Cocoa & Creme Rooftop Cafe,1177,Channai,Dinner,10,25
+Qua,3.7,Qua,800,Channai,Breakfast,20,25
+Frozen Bottle,4.0,Frozen Bottle,400,Channai,Breakfast,10,25
+Pakwan,4.3,Pakwan,800,Channai,Lunch,0,0
+Salem RR Biriyani Restaurant,2.7,Salem RR Biriyani Restaurant,600,Channai,Breakfast,15,25
+Chamiers Cafe,4.3,Chamiers Cafe,1000,Channai,Lunch,0,0
+Play Bae,5.0,Play Bae,1000,Channai,Breakfast,20,25
+Maison Indulgence,5.0,Maison Indulgence,700,Channai,Breakfast,20,25
+Zonkk,3.9,Zonkk,1500,Channai,Lunch,20,25
+Spicy Eats,4.9,Spicy Eats,1000,Channai,Breakfast,20,25
+Lazy Leopard,5.0,Lazy Leopard,1500,Channai,Lunch,0,0
+FlyDining,5.0,FlyDining,5000,Channai,Breakfast,20,25
+Madras Pavilion,4.4,Madras Pavilion,5000,Channai,Breakfast,0,0
+Tandoori Tamashaa,4.5,Tandoori Tamashaa,1000,Channai,Dinner,10,25
+Kim Ling,4.0,Kim Ling,800,Channai,Dinner,0,0
+ZEESHAN – Apna Asli Hyderabadi Briyani,3.5,ZEESHAN – Apna Asli Hyderabadi Briyani,800,Channai,Lunch,10,25
+The Indie Frost,5.0,The Indie Frost,600,Channai,Dinner,10,25
+Teru – South Indian Street Food,4.0,Teru – South Indian Street Food,350,Channai,Dinner,15,25
+B SQUARE,4.0,B SQUARE,400,Channai,Lunch,15,25
+The FreshlyMade,4.0,The FreshlyMade,700,Channai,Breakfast,15,25
+JC's Cafe,5.0,JC's Cafe,850,Channai,Lunch,10,25
+KIS Cafe,5.0,KIS Cafe,1100,Channai,Dinner,10,25
+Arabian Garden Sea Food Restaurant,5.0,Arabian Garden Sea Food Restaurant,1000,Channai,Lunch,10,25
+Mexe,5.0,Mexe,1000,Channai,Dinner,10,25
+Virunthu,4.8,Virunthu,1200,Channai,Dinner,10,25
+Ente Keralam,4.4,Ente Keralam,750,Channai,Dinner,0,0
+MMC Restaurant,5.0,MMC Restaurant,1000,Channai,Lunch,15,25
+Cook Gramam,5.0,Cook Gramam,1200,Channai,Breakfast,10,25
+The Tuscan Table,4.5,The Tuscan Table,1000,Channai,Dinner,10,25
+3 Layers @ ECR,3.5,3 Layers @ ECR,1500,Channai,Breakfast,20,25
+Oriol Cafe,4.0,Oriol Cafe,1000,Channai,Breakfast,20,25
+99 Lounge and Grill,4.0,99 Lounge and Grill,1200,Channai,Breakfast,20,25
+Umino - Candlelight Restaurant,4.0,Umino - Candlelight Restaurant,1500,Channai,Lunch,20,25
+Satti Kari,4.0,Satti Kari,1000,Channai,Lunch,20,25
+Durai's Kitchen,5.0,Durai's Kitchen,1000,Channai,Dinner,15,25
+Karaikudi Kalyana Virunthu,5.0,Karaikudi Kalyana Virunthu,1100,Channai,Breakfast,15,25
+The Living Room Signature,4.5,The Living Room Signature,2500,Channai,Dinner,10,25
+Cafe H,3.0,Cafe H,650,Channai,Breakfast,15,25
+The Pirates Bar,4.0,The Pirates Bar,1100,Channai,Dinner,10,25
+Stoire - The Story Cafe,4.0,Stoire - The Story Cafe,1000,Channai,Lunch,10,25
+The Vibe by Nowhere,4.0,The Vibe by Nowhere,1000,Channai,Lunch,10,25
+3D Resto Bar,4.0,3D Resto Bar,1000,Channai,Dinner,10,25
+Haagen Dazs,4.0,Haagen Dazs,600,Channai,Lunch,10,25
+Happy Ending Icecream & desserts,4.0,Happy Ending Icecream & desserts,500,Channai,Breakfast,10,25
+Pearly Bar ,4.0,Pearly Bar,1500,Channai,Lunch,10,25
+Manpaanai Chettinadu Virundhu,3.5,Manpaanai Chettinadu Virundhu,1000,Channai,Breakfast,15,25
+Therkin Anjaraipetti,5.0,Therkin Anjaraipetti,1000,Channai,Lunch,0,0
+Salt Indian Restaurant & Grill,5.0,Salt Indian Restaurant & Grill,1600,Channai,Lunch,15,25
+Watson's,4.1,Watson's,1500,Channai,Lunch,0,0
+Oru Kerala Story,4.5,Oru Kerala Story,1000,Channai,Dinner,0,0
+Vara Milagai Non Veg Restaurant,4.5,Vara Milagai Non Veg Restaurant,1000,Channai,Dinner,15,25
+H and D Gaming Cafe,4.0,H and D Gaming Cafe,500,Channai,Breakfast,50,25
+Cozzy 24,4.0,Cozzy 24,1000,Channai,Lunch,50,25
+Takkt Southern Cafe,5.0,Takkt Southern Cafe,800,Channai,Breakfast,20,25
+Wings Resto Bar,1.0,Wings Resto Bar,1200,Channai,Lunch,15,25
+Yasin Restaurant,4.6,Yasin Restaurant,1000,Channai,Breakfast,15,25
+Spring Lotus @ Lush,4.0,Spring Lotus @ Lush,1000,Channai,Breakfast,15,25
+Spice Route Restaurant by Downtown,4.0,Spice Route Restaurant by Downtown,900,Channai,Lunch,15,25
+The Golden Palate,4.0,The Golden Palate,800,Channai,Lunch,0,0
+Ubasti Cat Cafe & Lounge,4.0,Ubasti Cat Cafe & Lounge,500,Channai,Breakfast,15,25
+Bunsik Bites Korean Restaurant,4.0,Bunsik Bites Korean Restaurant,1000,Channai,Dinner,15,25
+Brews & Beyond,4.0,Brews & Beyond,450,Channai,Dinner,15,25
+Paanam,4.0,Paanam,1000,Channai,Dinner,15,25
+MK2 Marunthu Kuzhambu Kadai Tanjore Traditional,4.0,MK2 Marunthu Kuzhambu Kadai Tanjore Traditional,700,Channai,Lunch,15,25
+10 Munch - Pure Vegetarian,4.0,10 Munch - Pure Vegetarian,700,Channai,Breakfast,15,25
+Bikers Brew Cafe,4.0,Bikers Brew Cafe,300,Channai,Dinner,15,25
+Retake Cafe,4.0,Retake Cafe,800,Channai,Dinner,15,25
+Yellow Chilli Restaurant,4.0,Yellow Chilli Restaurant,1000,Channai,Dinner,15,25
+ECR Dhaba,5.0,ECR Dhaba,1000,Channai,Breakfast,10,25
+Canadian 2 for 1 Pizza,5.0,Canadian 2 for 1 Pizza,1000,Channai,Lunch,10,25
+OMR's New Biryani Dhaba,5.0,OMR's New Biryani Dhaba,600,Channai,Dinner,10,25
+Benjarong,4.8,Benjarong,2000,Channai,Dinner,0,0
+Amaravathi ,4.0,Amaravathi,800,Channai,Dinner,0,0
+Cafe Crema,5.0,Cafe Crema,400,Channai,Dinner,10,25
+The Hearth,5.0,The Hearth,1000,Channai,Dinner,10,25
+Oasis,5.0,Oasis,1200,Channai,Lunch,10,25
+Kim's BBQ,4.2,Kim's BBQ,1000,Channai,Lunch,0,0
+Tangerine Sizzlers Steak And More,5.0,Tangerine Sizzlers Steak And More,1500,Channai,Dinner,0,0
+ Narmada,4.1,Narmada,600,Channai,Breakfast,0,0
+Karaikudi Chettinad,4.7,Karaikudi Chettinad,800,Channai,Dinner,10,25
+Kana Katha,3.7,Kana Katha,1000,Channai,Dinner,15,25
+Rasanai,3.5,Rasanai,800,Channai,Dinner,0,0
+Eagles Nest Cafe & Restaurant,4.4,Eagles Nest Cafe & Restaurant,1000,Channai,Dinner,10,25
+The Brew Room,4.8,The Brew Room,1500,Channai,Lunch,0,0
+Studio Cafe,4.0,Studio Cafe,800,Channai,Lunch,15,25
+Mishkat Restaurant,4.7,Mishkat Restaurant,1000,Channai,Dinner,0,0
+Spice Bar,4.1,Spice Bar,1000,Channai,Dinner,10,25
+Kailash Parbat,4.7,Kailash Parbat,700,Channai,Dinner,0,0
+Arcot Bar,4.0,Arcot Bar,3000,Channai,Lunch,10,25
+The Liquid Library,4.0,The Liquid Library,2000,Channai,Dinner,10,25
+Top City Restaurant,4.0,Top City Restaurant,400,Channai,Breakfast,10,25
+Zoca Diner,4.0,Zoca Diner,1000,Channai,Dinner,10,25
+Retro Coffee,4.0,Retro Coffee,300,Channai,Dinner,10,25
+Aruvi,4.0,Aruvi,800,Channai,Lunch,10,25
+Cloud Burst,4.0,Cloud Burst,500,Channai,Breakfast,10,25
+Zero Degree ,4.0,Zero Degree,1400,Channai,Breakfast,10,25
+ Hollywood Red Lounge & Grill,4.0,Hollywood Red Lounge & Grill,2000,Channai,Lunch,10,25
+Palmyra Restaurant,4.0,Palmyra Restaurant,550,Channai,Breakfast,10,25
+1957 Madras Wharf,4.0,1957 Madras Wharf,1000,Channai,Dinner,10,25
+Eldorado Bar ,4.0,Eldorado Bar,1200,Channai,Lunch,10,25
+Northern Flavours,4.0,Northern Flavours,800,Channai,Dinner,10,25
+Crystal Bar,4.0,Crystal Bar,1500,Channai,Lunch,10,25
+Hafa Hut Restaurant,4.0,Hafa Hut Restaurant,1000,Channai,Breakfast,10,25
+Broken Bridge Cafe by Radio Room,4.6,Broken Bridge Cafe by Radio Room,1000,Channai,Lunch,0,0
+By The Alley-The Bowling Cafe,4.0,By The Alley-The Bowling Cafe,1000,Channai,Breakfast,10,25
+Mount Road Sangam,4.0,Mount Road Sangam,1000,Channai,Lunch,0,0
+Cheers Chennai,3.5,Cheers Chennai,600,Channai,Breakfast,10,25
+Latte Kitchen,5.0,Latte Kitchen,750,Channai,Breakfast,10,25
+Guntur Karam,4.1,Guntur Karam,800,Channai,Lunch,0,0
+House Of Idlies,5.0,House Of Idlies,300,Channai,Dinner,10,25
+Arabian Garden Seafood Restaurant,3.3,Arabian Garden Seafood Restaurant,1000,Channai,Lunch,10,25
+Sweetsoul Buddha Bowls,4.0,Sweetsoul Buddha Bowls,800,Channai,Dinner,15,25
+The Catch @ ECR,3.2,The Catch @ ECR,800,Channai,Lunch,10,25
+The Oriental Blossom,5.0,The Oriental Blossom,1200,Channai,Lunch,15,25
+Nectar,1.0,Nectar,2000,Channai,Breakfast,20,25
+Kapi Multicuisine Restaurant,1.0,Kapi Multicuisine Restaurant,1000,Channai,Breakfast,20,25
+PHD - Pour House Drinks,2.8,PHD - Pour House Drinks,1000,Channai,Lunch,10,25
+Pink Potato	,4.5,Pink Potato,600,Channai,Lunch,0,0
+Asia Kitchen By Mainland China,3.9,Asia Kitchen By Mainland China,1400,Channai,Dinner,20,25
+Visesham,4.0,Visesham,5000,Channai,Lunch,0,0
+Sky Lounge,2.8,Sky Lounge,1800,Channai,Lunch,10,25
+Fabelle Chocolate Boutique,4.7,Fabelle Chocolate Boutique,1500,Channai,Lunch,0,0
+Bread Boutique By Brew Room,4.0,Bread Boutique By Brew Room,500,Channai,Dinner,10,25
+Dexter Burgers,4.0,Dexter Burgers,500,Channai,Dinner,10,25
+Kueh,4.0,Kueh,800,Channai,Dinner,10,25
+Mexipop,4.0,Mexipop,500,Channai,Dinner,10,25
+Pink Potato,4.2,Pink Potato,800,Channai,Breakfast,0,0
+Club Heist,1.0,Club Heist,1200,Channai,Dinner,15,25
+Faruuzi Multicuisine Restaurant,4.2,Faruuzi Multicuisine Restaurant,1000,Channai,Breakfast,0,0
+Waf Bites,3.5,Waf Bites,300,Channai,Breakfast,25,25
+Tinnai Mess - Gramiya Manam,4.0,Tinnai Mess - Gramiya Manam,600,Channai,Breakfast,0,0
+Gopuram Veg,4.0,Gopuram Veg,400,Channai,Breakfast,0,0
+Delish- Anna nagar,4.0,Delish- Anna nagar,500,Channai,Lunch,0,25
+The Eatery,3.9,The Eatery,1227,Channai,Lunch,25,25
+Atho Man,2.0,Atho Man,1100,Channai,Dinner,15,25
+Amaravathi ,3.5,Amaravathi,800,Channai,Breakfast,0,0
+Nibble Nest Cafe,4.0,Nibble Nest Cafe,600,Channai,Breakfast,20,25
+Sunbean Cafe,5.0,Sunbean Cafe,1200,Channai,Lunch,0,0
+The Karaikudi Kitchen,1.0,The Karaikudi Kitchen,800,Channai,Breakfast,10,25
+WelcomCafe Marina,5.0,WelcomCafe Marina,1400,Channai,Breakfast,0,0
+The Viridian Plate-Veg Plant Based,5.0,The Viridian Plate-Veg Plant Based,1000,Channai,Breakfast,0,0
+Thandatti Restaurant By Drizzle,1.0,Thandatti Restaurant By Drizzle,700,Channai,Lunch,10,25
+Moonrakers Chettinadu Restaurant,1.0,Moonrakers Chettinadu Restaurant,1000,Channai,Breakfast,10,25
+ Kailash Parbat,4.3,Kailash Parbat,700,Channai,Dinner,0,0
+Hudson Lounge Bar,4.7,Hudson Lounge Bar,1000,Channai,Dinner,0,0
+Durrant's Bar ,4.6,Durrant's Bar,1800,Channai,Dinner,0,0
+Desi Vibes,5.0,Desi Vibes,1200,Delhi,Breakfast,35,25
+The Creative Kitchen,4.4,The Creative Kitchen,5000,Delhi,Lunch,25,25
+Meraki Cafe & Bar,4.3,Meraki Cafe & Bar,1400,Delhi,Lunch,20,25
+Baby Dragon Bar & Restaurant,4.3,Baby Dragon Bar & Restaurant,1400,Delhi,Breakfast,20,25
+Indian Grill Room,4.4,Indian Grill Room,1500,Delhi,Breakfast,25,25
+Kebabs & Curries Company,4.5,Kebabs & Curries Company,800,Delhi,Dinner,40,25
+WITC - Wok In The Clouds,4.4,WITC - Wok In The Clouds,2000,Delhi,Lunch,20,25
+Rubato- Bistro & Lounge,5.0,Rubato- Bistro & Lounge,1500,Delhi,Lunch,25,25
+Drunken Affair,3.3,Drunken Affair,1500,Delhi,Dinner,50,25
+Cafe Pamaa,4.5,Cafe Pamaa,1000,Delhi,Lunch,25,25
+Mosaic,4.1,Mosaic,2500,Delhi,Breakfast,50,25
+Te Amo,4.4,Te Amo,1600,Delhi,Breakfast,15,25
+High Spirits,3.7,High Spirits,1500,Delhi,Lunch,30,25
+Kitchen District,3.5,Kitchen District,2300,Delhi,Dinner,25,25
+The Beer Mug,4.5,The Beer Mug,1000,Delhi,Lunch,45,25
+Downtown 29,4.2,Downtown 29,1200,Delhi,Lunch,35,25
+Spectra,4.4,Spectra,5000,Delhi,Breakfast,20,25
+The Paris Coffeehouse,4.0,The Paris Coffeehouse,1300,Delhi,Breakfast,30,25
+Karwaan - Journey to Mughal cuisine,4.0,Karwaan - Journey to Mughal cuisine,1600,Delhi,Breakfast,20,25
+Symposium,4.2,Symposium,1000,Delhi,Lunch,20,25
+Maison Maiya,4.4,Maison Maiya,3500,Delhi,Breakfast,0,1
+The Glutton Cafe,3.7,The Glutton Cafe,1500,Delhi,Breakfast,30,25
+Kampai,4.6,Kampai,1800,Delhi,Breakfast,25,25
+Celeste,4.3,Celeste,1600,Delhi,Lunch,20,25
+Auren,5.0,Auren,1800,Delhi,Lunch,30,25
+Moti Mahal,5.0,Moti Mahal,1500,Delhi,Breakfast,40,25
+Whisky Samba,4.4,Whisky Samba,2500,Delhi,Lunch,15,25
+Kampai,4.5,Kampai,1500,Delhi,Breakfast,25,25
+Govardhan Vegetarian,4.5,Govardhan Vegetarian,500,Delhi,Breakfast,25,25
+Home,4.3,Home,3000,Delhi,Breakfast,25,25
+Veu by Duty Free,2.7,Veu by Duty Free,1500,Delhi,Breakfast,30,25
+Chaupal ,4.0,Chaupal,3500,Delhi,Breakfast,50,25
+The Drunken Botanist ,4.3,The Drunken Botanist,1500,Delhi,Dinner,25,25
+Charcha,4.5,Charcha,1000,Delhi,Dinner,15,25
+Dosa Planet,4.4,Dosa Planet,500,Delhi,Dinner,15,25
+Ministry of Beer,4.6,Ministry of Beer,2500,Delhi,Breakfast,35,25
+The Flying Dutchman,4.0,The Flying Dutchman,1800,Delhi,Breakfast,50,25
+Paprika Park,4.0,Paprika Park,1500,Delhi,Dinner,40,25
+Baraasa,4.0,Baraasa,1000,Delhi,Dinner,25,25
+Levernasia,3.6,Levernasia,1600,Delhi,Dinner,30,25
+La Croute,5.0,La Croute,1200,Delhi,Lunch,20,25
+Rubarru,4.0,Rubarru,1200,Delhi,Dinner,35,25
+Berni Cafe & Restaurant,4.4,Berni Cafe & Restaurant,1000,Delhi,Dinner,30,25
+Cafe Coromandel,5.0,Cafe Coromandel,600,Delhi,Lunch,40,25
+Canopy Pool Bar and Lounge,2.6,Canopy Pool Bar and Lounge,1000,Delhi,Breakfast,30,25
+Balloch,4.1,Balloch,1500,Delhi,Dinner,40,25
+Ministry of Daru,5.0,Ministry of Daru,1800,Delhi,Breakfast,20,25
+Rremix,4.0,Rremix,2000,Delhi,Breakfast,50,25
+Zythos Loft Bar and Brew ,4.8,Zythos Loft Bar and Brew,1500,Delhi,Lunch,25,25
+Qavalli,4.5,Qavalli,2000,Delhi,Dinner,15,25
+Infinity ,4.1,Infinity,2600,Delhi,Breakfast,25,25
+Buona Sera,4.2,Buona Sera,1000,Delhi,Lunch,35,25
+34 Masala Lane,4.4,34 Masala Lane,700,Delhi,Lunch,20,25
+Echoes ,3.0,Echoes,1400,Delhi,Breakfast,20,25
+Azula Asian Kitchen & Bar,4.7,Azula Asian Kitchen & Bar,1400,Delhi,Lunch,30,25
+Pind Balluchi,4.4,Pind Balluchi,1000,Delhi,Lunch,15,25
+Houz,4.3,Houz,2300,Delhi,Lunch,20,25
+Gonzo Asian Street Bar,3.6,Gonzo Asian Street Bar,1000,Delhi,Breakfast,15,25
+Gonzo Asian Tapas Bar,4.3,Gonzo Asian Tapas Bar,2500,Delhi,Dinner,20,25
+Moire Cafe Lounge & Bar,3.9,Moire Cafe Lounge & Bar,1500,Delhi,Dinner,50,25
+Zodiac,5.0,Zodiac,1500,Delhi,Dinner,35,25
+Seasonal Tastes,4.3,Seasonal Tastes,4500,Delhi,Breakfast,50,25
+The Barbeque Company,3.7,The Barbeque Company,2500,Delhi,Lunch,35,25
+Xero Degrees,4.4,Xero Degrees,1000,Delhi,Breakfast,35,25
+Boogie Woogie,3.7,Boogie Woogie,1800,Delhi,Breakfast,30,25
+Tea Studio,4.0,Tea Studio,1000,Delhi,Dinner,20,25
+Organic Bistro,5.0,Organic Bistro,1400,Delhi,Dinner,20,25
+Jujube Asian Experience,4.9,Jujube Asian Experience,1500,Delhi,Breakfast,40,25
+Padmanabham,2.3,Padmanabham,600,Delhi,Breakfast,20,25
+Pop Seoul,3.5,Pop Seoul,1000,Delhi,Breakfast,30,25
+Saucy Cocktail Garden,3.4,Saucy Cocktail Garden,2000,Delhi,Lunch,30,25
+Housefull Cafe & Lounge,3.8,Housefull Cafe & Lounge,1200,Delhi,Lunch,25,25
+Ivoryy Delhi,4.1,Ivoryy Delhi,1200,Delhi,Dinner,25,25
+Kiona,4.1,Kiona,1800,Delhi,Lunch,30,25
+Dorrance Cafe Club and Bar,3.8,Dorrance Cafe Club and Bar,1500,Delhi,Lunch,25,25
+Flluid,4.4,Flluid,1500,Delhi,Breakfast,30,25
+Nanking,4.5,Nanking,1500,Delhi,Breakfast,25,25
+MKT,4.5,MKT,2500,Delhi,Breakfast,20,25
+Sky Rozo,3.8,Sky Rozo,1400,Delhi,Breakfast,15,25
+"Factory Pub,Bar & Brewery",3.5,"Factory Pub,Bar & Brewery",1600,Delhi,Breakfast,35,25
+Caffe Bella Italia,4.7,Caffe Bella Italia,600,Delhi,Lunch,25,25
+The Punterhouse Café Reloaded,4.0,The Punterhouse Café Reloaded,1700,Delhi,Breakfast,35,25
+Desi Firangi by Clay Inn Hotel,4.6,Desi Firangi by Clay Inn Hotel,1200,Delhi,Breakfast,30,25
+Castle's Barbeque,2.8,Castle's Barbeque,1200,Delhi,Dinner,40,25
+Flavours,3.9,Flavours,1200,Delhi,Lunch,25,25
+Club Encore by Vatavaran,5.0,Club Encore by Vatavaran,1500,Delhi,Lunch,30,25
+Limitless,4.0,Limitless,1300,Delhi,Dinner,30,25
+Wok In The Clouds,4.3,Wok In The Clouds,2000,Delhi,Dinner,20,25
+Suribachi,3.8,Suribachi,1700,Delhi,Breakfast,10,25
+Bizou-Bizou,4.2,Bizou-Bizou,2500,Delhi,Lunch,20,25
+Level 2 ,3.9,Level 2,3000,Delhi,Breakfast,25,25
+Breakin' Brew,4.5,Breakin' Brew,700,Delhi,Dinner,20,25
+Local,4.1,Local,1200,Delhi,Dinner,20,25
+The Good Food Cafe,3.7,The Good Food Cafe,700,Delhi,Breakfast,25,25
+G3 Cafe,2.8,G3 Cafe,1500,Delhi,Breakfast,15,25
+AK's Bar,4.6,AK's Bar,1600,Delhi,Lunch,25,25
+F2 BAR by Food Frolic Microbrewery,4.0,F2 BAR by Food Frolic Microbrewery,2000,Delhi,Lunch,40,25
+Bread & More,4.2,Bread & More,600,Delhi,Dinner,20,25
+The Game Palacio,4.0,The Game Palacio,1500,Delhi,Breakfast,40,25
+Jungle Barbeque,3.7,Jungle Barbeque,1400,Delhi,Dinner,50,25
+Oro Bar,4.7,Oro Bar,2500,Delhi,Breakfast,30,25
+Glori,3.8,Glori,1500,Delhi,Breakfast,20,25
+Gola Sizzler,5.0,Gola Sizzler,2500,Delhi,Lunch,25,25
+Mamagoto,4.4,Mamagoto,1500,Delhi,Lunch,15,25
+Maamouche's Alchemy Bar,4.7,Maamouche's Alchemy Bar,1000,Delhi,Lunch,25,25
+Atrium Bar  & Lounge,4.0,Atrium Bar  & Lounge,3000,Delhi,Dinner,25,25
+Raifu Authentic Japanese Cuisine,4.7,Raifu Authentic Japanese Cuisine,1800,Delhi,Breakfast,20,25
+Glaza Bar & Beyond,4.6,Glaza Bar & Beyond,1600,Delhi,Breakfast,50,25
+Ambrosia,4.1,Ambrosia,1500,Delhi,Breakfast,30,25
+Ka Eclairs & Kafe,4.5,Ka Eclairs & Kafe,900,Delhi,Dinner,25,25
+Le Chef Restrobar,4.0,Le Chef Restrobar,1200,Delhi,Dinner,15,25
+" Peach- Microbrewery, Bar & Kitchen",4.1,"Peach- Microbrewery, Bar & Kitchen",1500,Delhi,Lunch,25,25
+Nebo,5.0,Nebo,2000,Delhi,Lunch,35,25
+Big Pitcher,4.3,Big Pitcher,1600,Delhi,Dinner,45,25
+The Bbq Industry,4.4,The Bbq Industry,1600,Delhi,Dinner,20,25
+Clock Tower,4.6,Clock Tower,2700,Delhi,Breakfast,25,25
+Kitchen Craft,4.1,Kitchen Craft,3000,Delhi,Dinner,25,25
+Staple Delhi,5.0,Staple Delhi,1500,Delhi,Lunch,25,25
+Downtown Kitchen & Bar,4.1,Downtown Kitchen & Bar,2700,Delhi,Breakfast,25,25
+Cafe 55,3.4,Cafe 55,1200,Delhi,Breakfast,25,25
+Grillardin,4.4,Grillardin,1200,Delhi,Lunch,25,25
+Uncultured Cafe & Bar,4.2,Uncultured Cafe & Bar,1500,Delhi,Lunch,30,25
+Vertigo Rooftop Resto & Bar,4.0,Vertigo Rooftop Resto & Bar,1000,Delhi,Lunch,30,25
+The Green Room By Mia’s,4.0,The Green Room By Mia’s,1500,Delhi,Dinner,30,25
+Haristo Pizzeria,4.0,Haristo Pizzeria,1200,Delhi,Breakfast,30,25
+Stallion,4.9,Stallion,3000,Delhi,Breakfast,25,25
+Shan-e-Awadh,4.0,Shan-e-Awadh,2400,Delhi,Dinner,30,25
+Mystery Of Food,4.0,Mystery Of Food,1200,Delhi,Breakfast,30,25
+Mala - Akbari,4.3,Mala - Akbari,2000,Delhi,Dinner,15,25
+Paprika,5.0,Paprika,1500,Delhi,Lunch,25,25
+Bitters,5.0,Bitters,1000,Delhi,Breakfast,25,25
+Nowhere Terrace Brewpub Cafe,4.4,Nowhere Terrace Brewpub Cafe,2800,Delhi,Lunch,25,25
+BrewHouse,4.2,BrewHouse,2000,Delhi,Lunch,25,25
+Rumours Rooftop ,4.0,Rumours Rooftop,1500,Delhi,Breakfast,50,25
+Atrium Lounge,5.0,Atrium Lounge,1500,Delhi,Lunch,25,25
+Kurama - The Rooftop Cafe & Restaurant,4.0,Kurama - The Rooftop Cafe & Restaurant,700,Delhi,Lunch,20,25
+The Hangar Lounge Bar,4.7,The Hangar Lounge Bar,2500,Delhi,Lunch,25,25
+Dearie Bar Brewery Kitchen,3.9,Dearie Bar Brewery Kitchen,1500,Delhi,Breakfast,35,25
+Kakapo,4.5,Kakapo,2500,Delhi,Dinner,30,25
+Soul Pantry,4.8,Soul Pantry,2000,Delhi,Dinner,20,25
+Bobachee by Chef Yuvraj Kohli,4.1,Bobachee by Chef Yuvraj Kohli,1800,Delhi,Breakfast,25,25
+Zoca Diner,3.4,Zoca Diner,1200,Delhi,Lunch,30,25
+Bizi Bean,4.7,Bizi Bean,500,Delhi,Dinner,25,25
+G Bar,4.7,G Bar,2200,Delhi,Lunch,25,25
+Baru Ristoranté,3.7,Baru Ristoranté,1500,Delhi,Dinner,30,25
+The Sunday House,4.3,The Sunday House,1400,Delhi,Lunch,20,25
+Sandoz BBQ,3.9,Sandoz BBQ,1800,Delhi,Dinner,20,25
+Mustard Madras,4.5,Mustard Madras,1500,Delhi,Dinner,15,25
+Nomad Experience,3.9,Nomad Experience,800,Delhi,Lunch,0,1
+Amritsar Haveli,3.9,Amritsar Haveli,1000,Delhi,Lunch,30,25
+Kiara Soul Kitchen,4.7,Kiara Soul Kitchen,2400,Delhi,Breakfast,20,25
+Sura Vie Live it Up!,4.3,Sura Vie Live it Up!,1600,Delhi,Lunch,15,25
+Khadak Singh Da Dhaba,4.5,Khadak Singh Da Dhaba,1200,Delhi,Breakfast,25,25
+The Red Brick Room,4.4,The Red Brick Room,4300,Delhi,Breakfast,50,25
+Ingri at Museo,4.3,Ingri at Museo,1500,Delhi,Lunch,30,25
+Team Kitchen & Bar,4.5,Team Kitchen & Bar,1000,Delhi,Breakfast,25,25
+Smokey Lounge,4.5,Smokey Lounge,1800,Delhi,Dinner,20,25
+Spezia Bistro,5.0,Spezia Bistro,1000,Delhi,Breakfast,20,25
+Cafe Amaretto,4.6,Cafe Amaretto,1600,Delhi,Dinner,15,25
+EEST ,4.7,EEST,3600,Delhi,Lunch,50,25
+Breakin’ Brew,5.0,Breakin’ Brew,700,Delhi,Dinner,20,25
+Encanto,4.8,Encanto,2200,Delhi,Lunch,25,25
+D' Wood Cafe,4.0,D' Wood Cafe,1000,Delhi,Lunch,25,25
+Kutumb Restro And Bar ,4.0,Kutumb Restro And Bar,1300,Delhi,Breakfast,25,25
+Cafe High Octane,4.0,Cafe High Octane,1000,Delhi,Lunch,25,25
+#3Bros Express,4.0,#3Bros Express,600,Delhi,Lunch,25,25
+Zenba,4.0,Zenba,1200,Delhi,Lunch,25,25
+Breakin Brew,5.0,Breakin Brew,1200,Delhi,Dinner,20,25
+The Coffee Bean & Tea Leaf	,4.2,The Coffee Bean & Tea Leaf,600,Delhi,Dinner,30,25
+The China Kitchen,4.5,The China Kitchen,4500,Delhi,Breakfast,15,25
+Jalsa Air Bar,4.3,Jalsa Air Bar,1200,Delhi,Lunch,10,25
+Cafe Honey,5.0,Cafe Honey,1800,Delhi,Lunch,20,25
+Cafe C,3.0,Cafe C,1500,Delhi,Lunch,30,25
+Café Resto,4.4,Café Resto,2000,Delhi,Breakfast,10,25
+Yanny's,2.9,Yanny's,1200,Delhi,Breakfast,30,25
+Maltt & Myths,1.0,Maltt & Myths,1500,Delhi,Breakfast,30,25
+Kylin Experience ,4.4,Kylin Experience,1900,Delhi,Dinner,10,25
+Molecule,3.9,Molecule,2500,Delhi,Lunch,25,25
+The Eatery,4.2,The Eatery,2200,Delhi,Dinner,30,25
+The Bikers Cafe ,4.4,The Bikers Cafe,1000,Delhi,Dinner,20,25
+Two Hungry Stoners,4.8,Two Hungry Stoners,1000,Delhi,Breakfast,15,25
+W XYZ,3.6,W XYZ,2500,Delhi,Dinner,25,25
+The Imperial Spice,4.8,The Imperial Spice,2000,Delhi,Breakfast,25,25
+Tahia,4.3,Tahia,1200,Delhi,Lunch,20,25
+Uncle's Delhi,5.0,Uncle's Delhi,1000,Delhi,Dinner,10,25
+Spaced Out Cafe,4.9,Spaced Out Cafe,1200,Delhi,Dinner,10,25
+Rizq,5.0,Rizq,1200,Delhi,Lunch,10,25
+The Ivy,4.7,The Ivy,1500,Delhi,Breakfast,15,25
+Say Fontina,4.3,Say Fontina,1200,Delhi,Dinner,25,25
+Themis Barbecue House,3.9,Themis Barbecue House,1200,Delhi,Lunch,20,25
+FIO Cookhouse and Bar,4.5,FIO Cookhouse and Bar,2700,Delhi,Lunch,10,25
+NAO - Next Asian Outing,5.0,NAO - Next Asian Outing,1800,Delhi,Dinner,15,25
+House #309 by Sweet Obsession,4.8,House #309 by Sweet Obsession,700,Delhi,Breakfast,15,25
+Punjabi Angithi - Fine Dine By Vegorama Group,4.8,Punjabi Angithi - Fine Dine By Vegorama Group,800,Delhi,Dinner,15,25
+Tipsy Terrace,4.0,Tipsy Terrace,1500,Delhi,Dinner,30,25
+Dirty Rabbit,5.0,Dirty Rabbit,1800,Delhi,Lunch,30,25
+Ping's Café Orient,4.5,Ping's Café Orient,700,Delhi,Breakfast,0,1
+All Day Diner,5.0,All Day Diner,1000,Delhi,Dinner,50,25
+Pour Over ,4.1,Pour Over,1800,Delhi,Breakfast,15,25
+Barcode,4.1,Barcode,1200,Delhi,Breakfast,25,25
+Nomai (Authentic Chinese & Pan Asian),4.5,Nomai (Authentic Chinese & Pan Asian),1000,Delhi,Lunch,40,25
+Moets,4.4,Moets,2000,Delhi,Dinner,25,25
+Kawaii,3.9,Kawaii,1000,Delhi,Dinner,30,25
+Noon Mirch,4.0,Noon Mirch,1500,Delhi,Breakfast,25,25
+Bonne Foi 65,4.5,Bonne Foi 65,1200,Delhi,Dinner,10,25
+Msai Mara - The Cocktail Jungle,3.9,Msai Mara - The Cocktail Jungle,2000,Delhi,Breakfast,25,25
+Asper,4.5,Asper,2500,Delhi,Lunch,20,25
+The Barbeque Times,4.2,The Barbeque Times,1800,Delhi,Lunch,25,25
+Moti Mahal Delux,4.1,Moti Mahal Delux,1100,Delhi,Lunch,30,25
+Kake Da Hotel,3.0,Kake Da Hotel,700,Delhi,Dinner,25,25
+Fired Up,4.0,Fired Up,2000,Delhi,Lunch,20,25
+House of Migo,4.4,House of Migo,2000,Delhi,Lunch,15,25
+Cuoco The Cafe,3.0,Cuoco The Cafe,600,Delhi,Breakfast,25,25
+Hahn's kitchen,4.5,Hahn's kitchen,1800,Delhi,Lunch,10,25
+Dhaba,4.6,Dhaba,3000,Delhi,Breakfast,25,25
+Diya ,4.5,Diya,4500,Delhi,Lunch,20,25
+Pankh,3.1,Pankh,1200,Delhi,Breakfast,25,25
+Jamie’s Pizzeria,4.3,Jamie’s Pizzeria,1200,Delhi,Lunch,20,25
+Da' Mivaan,5.0,Da' Mivaan,1500,Delhi,Breakfast,15,25
+Cafe Breeze - Air By Ahuja Residency,5.0,Cafe Breeze - Air By Ahuja Residency,1000,Delhi,Breakfast,15,25
+Tizoe,2.5,Tizoe,1300,Delhi,Breakfast,35,25
+United Coffee House Rewind,4.4,United Coffee House Rewind,1000,Delhi,Breakfast,25,25
+Drums of Heaven,4.5,Drums of Heaven,900,Delhi,Lunch,25,25
+AIR- An Ivory Region ,3.8,AIR- An Ivory Region,1200,Delhi,Breakfast,20,25
+Be Raw Rooftop Cafe,4.3,Be Raw Rooftop Cafe,700,Delhi,Dinner,45,25
+Minerals Cafe,5.0,Minerals Cafe,1400,Delhi,Dinner,20,25
+House Of Boho,3.8,House Of Boho,1200,Delhi,Dinner,25,25
+Cozy The Casual Lounge,4.0,Cozy The Casual Lounge,1500,Delhi,Breakfast,35,25
+Canvas V Plant fwd Kitchen & Bar,4.8,Canvas V Plant fwd Kitchen & Bar,2000,Delhi,Lunch,20,25
+La Vie Douce,4.6,La Vie Douce,1200,Delhi,Breakfast,15,25
+Pukhtaan - Legacy Of Padma Shri Chef Imtiaz Qureshi,3.7,Pukhtaan - Legacy Of Padma Shri Chef Imtiaz Qureshi,1100,Delhi,Dinner,20,25
+Ministry Of Sound,4.1,Ministry Of Sound,4000,Delhi,Lunch,25,25
+Cafe Fika ,4.2,Cafe Fika,1200,Delhi,Breakfast,25,25
+Cecilia’s Pizzeria,4.4,Cecilia’s Pizzeria,1500,Delhi,Dinner,15,25
+Ryba Cafe & Dining,4.9,Ryba Cafe & Dining,1300,Delhi,Dinner,20,25
+Kogai Japanese Dining,4.6,Kogai Japanese Dining,1400,Delhi,Breakfast,25,25
+Castle's Barbeque	,2.8,Castle's Barbeque,2000,Delhi,Lunch,40,25
+Orange Room By Habbit,4.4,Orange Room By Habbit,1500,Delhi,Breakfast,15,25
+Bistro 57,4.5,Bistro 57,700,Delhi,Dinner,10,25
+Mughal Mahal,4.0,Mughal Mahal,1100,Delhi,Lunch,15,25
+Fiaba,4.3,Fiaba,1000,Delhi,Lunch,20,25
+Matchis Resto Bar,4.2,Matchis Resto Bar,1000,Delhi,Breakfast,30,25
+Coffee Brat & Co.,4.0,Coffee Brat & Co.,750,Delhi,Breakfast,25,25
+Mayfair,4.1,Mayfair,1200,Delhi,Lunch,15,25
+CAD Techbar & Brewery,4.5,CAD Techbar & Brewery,1500,Delhi,Breakfast,30,25
+Old Street Cafe & Lounge,5.0,Old Street Cafe & Lounge,1100,Delhi,Breakfast,20,25
+Coastal Shack,5.0,Coastal Shack,2000,Delhi,Lunch,20,25
+T.K'S Oriental Grill,4.4,T.K'S Oriental Grill,4000,Delhi,Dinner,15,25
+The Beer Garden,5.0,The Beer Garden,1500,Delhi,Dinner,20,25
+Panoramic,3.7,Panoramic,2100,Delhi,Dinner,50,25
+Low Key Cafe,4.7,Low Key Cafe,1000,Delhi,Breakfast,20,25
+Circle,4.4,Circle,2000,Delhi,Breakfast,30,25
+Idlinama,4.5,Idlinama,800,Delhi,Lunch,10,25
+Andhra Delight,4.0,Andhra Delight,600,Delhi,Lunch,15,25
+Bombay Brasserie,4.0,Bombay Brasserie,1200,Delhi,Lunch,15,25
+Thai Esan,4.0,Thai Esan,1000,Delhi,Lunch,15,25
+Seoul Restaurant,5.0,Seoul Restaurant,2000,Delhi,Lunch,10,25
+London Street Cafe & Bar,4.0,London Street Cafe & Bar,1000,Delhi,Breakfast,40,25
+Cafe Kuvo,5.0,Cafe Kuvo,800,Delhi,Breakfast,10,25
+K's Cafe,3.0,K's Cafe,1000,Delhi,Dinner,20,25
+Tama Brewery And World Kitchen,4.4,Tama Brewery And World Kitchen,1750,Delhi,Lunch,15,25
+Nineteen 78,4.2,Nineteen 78,1500,Delhi,Breakfast,25,25
+Dice & Fork,5.0,Dice & Fork,1000,Delhi,Dinner,10,25
+Udupi Shree Krishna,5.0,Udupi Shree Krishna,1000,Delhi,Dinner,10,25
+Xero Degrees,5.0,Xero Degrees,800,Delhi,Lunch,10,25
+Sip N Nosh,5.0,Sip N Nosh,700,Delhi,Dinner,10,25
+Pinxx - Bar,2.0,Pinxx - Bar,1200,Delhi,Lunch,25,25
+DnD's - Drinks N Dine,4.0,DnD's - Drinks N Dine,1500,Delhi,Breakfast,20,25
+Smaaash,4.3,Smaaash,1200,Delhi,Breakfast,15,25
+Unico,4.8,Unico,2000,Delhi,Lunch,30,25
+Masala Synergy,4.6,Masala Synergy,2000,Delhi,Dinner,10,25
+Oh! Calcutta,4.7,Oh! Calcutta,1700,Delhi,Breakfast,10,25
+Sorbo,3.6,Sorbo,2000,Delhi,Dinner,15,25
+Metro Grill,3.8,Metro Grill,1200,Delhi,Dinner,25,25
+Pasta Street,4.5,Pasta Street,1800,Delhi,Lunch,15,25
+Longitude Bar,4.5,Longitude Bar,1700,Delhi,Lunch,25,25
+Brick N Bean Cafe,4.7,Brick N Bean Cafe,1000,Delhi,Dinner,10,25
+SOYI,4.5,SOYI,1100,Delhi,Lunch,25,25
+ FES Cafe and Desserts,4.4,FES Cafe and Desserts,500,Delhi,Lunch,10,25
+The Chatter House,4.4,The Chatter House,1800,Delhi,Breakfast,10,25
+Jamun,4.4,Jamun,1400,Delhi,Lunch,0,1
+Jamie Oliver Kitchen,4.0,Jamie Oliver Kitchen,2000,Delhi,Breakfast,25,25
+Aagaz,4.0,Aagaz,2500,Delhi,Dinner,30,25
+Ivory Tap,4.0,Ivory Tap,1800,Delhi,Lunch,30,25
+Garam Dharam,4.6,Garam Dharam,1000,Delhi,Lunch,10,25
+Mironi - A Culinary affair.,5.0,Mironi - A Culinary affair.,1000,Delhi,Dinner,25,25
+Val Halla,4.0,Val Halla,1500,Delhi,Breakfast,25,25
+Upgrade Kitchen & Bar,4.0,Upgrade Kitchen & Bar,800,Delhi,Breakfast,20,25
+Syrah,4.5,Syrah,5200,Delhi,Lunch,15,25
+Tayles,5.0,Tayles,3000,Delhi,Lunch,25,25
+Edna,5.0,Edna,1800,Delhi,Dinner,25,25
+Cafe Amaris,5.0,Cafe Amaris,2150,Delhi,Dinner,25,25
+The Grill House,3.8,The Grill House,1500,Delhi,Breakfast,50,25
+Vasant Kunj Social,4.4,Vasant Kunj Social,1300,Delhi,Dinner,20,25
+Grubsoul Seafoods,4.5,Grubsoul Seafoods,900,Delhi,Lunch,10,25
+IFC Moti Mahal,4.1,IFC Moti Mahal,1100,Delhi,Dinner,30,25
+Pinch of Spice,4.5,Pinch of Spice,1400,Delhi,Lunch,10,25
+Coffee Island,5.0,Coffee Island,500,Delhi,Lunch,20,25
+Dawn2Dusk Café,5.0,Dawn2Dusk Café,1500,Delhi,Breakfast,25,25
+K3,4.4,K3,3000,Delhi,Dinner,25,25
+Puratan - Family Restaurant & Bar,4.0,Puratan - Family Restaurant & Bar,1200,Delhi,Dinner,10,25
+Zoreko,3.6,Zoreko,1300,Delhi,Lunch,30,25
+Kijiji On The Roof ,4.0,Kijiji On The Roof,1800,Delhi,Lunch,20,25
+Palmyra,4.4,Palmyra,2500,Delhi,Dinner,25,25
+Laidback Cafe,4.6,Laidback Cafe,2000,Delhi,Lunch,25,25
+Shanghai Bar & Lounge,4.8,Shanghai Bar & Lounge,1600,Delhi,Breakfast,25,25
+Crave Bar,3.8,Crave Bar,2000,Delhi,Dinner,30,25
+Tapas ,4.8,Tapas,3000,Delhi,Dinner,15,25
+The Establishment,4.4,The Establishment,1400,Delhi,Dinner,15,25
+Della Nucci,4.0,Della Nucci,1000,Delhi,Lunch,35,25
+Smoke House Deli,4.4,Smoke House Deli,1950,Delhi,Lunch,15,25
+Meraak A Culinary Tale,4.0,Meraak A Culinary Tale,1600,Delhi,Lunch,20,25
+Blooms Cafe & Lounge,4.0,Blooms Cafe & Lounge,1000,Delhi,Breakfast,20,25
+Tres,4.6,Tres,3000,Delhi,Dinner,0,25
+Rustique - Cafe & Bar,4.5,Rustique - Cafe & Bar,1200,Delhi,Lunch,20,25
+Juuls,3.7,Juuls,1000,Delhi,Dinner,30,25
+Ethyl,4.3,Ethyl,4000,Delhi,Lunch,25,25
+Cena Pranzo – Italian Eatery,4.1,Cena Pranzo – Italian Eatery,4000,Delhi,Dinner,15,25
+IKI & GAI,5.0,IKI & GAI,3000,Delhi,Lunch,15,25
+In The Punjab,3.8,In The Punjab,1500,Delhi,Lunch,25,25
+Locus,3.0,Locus,1200,Delhi,Dinner,25,25
+Emerald House,5.0,Emerald House,1000,Delhi,Dinner,15,25
+Banjara,4.0,Banjara,2000,Delhi,Breakfast,25,25
+Zaffran - by Kasbah,4.2,Zaffran - by Kasbah,1100,Delhi,Dinner,15,25
+Ryu Rooftop Bar,4.4,Ryu Rooftop Bar,2000,Delhi,Dinner,20,25
+Rigo Restaurant+Bistro,4.5,Rigo Restaurant+Bistro,1000,Delhi,Lunch,15,25
+Runway1,3.8,Runway1,1200,Delhi,Lunch,20,25
+The Clay Oven,4.4,The Clay Oven,1200,Delhi,Lunch,20,25
+Solanas Chinese & Thai,4.3,Solanas Chinese & Thai,800,Delhi,Lunch,25,25
+The Lounge,4.5,The Lounge,1200,Delhi,Dinner,30,25
+Miraco,4.0,Miraco,1000,Delhi,Lunch,15,25
+Foresta,4.5,Foresta,800,Delhi,Dinner,20,25
+Cafe Asian Street,4.0,Cafe Asian Street,1200,Delhi,Breakfast,10,25
+Kocktails & Kurries,4.3,Kocktails & Kurries,1200,Delhi,Breakfast,25,25
+Suvarna Mahal,4.0,Suvarna Mahal,2000,Delhi,Lunch,10,25
+Magadh and Awadh,4.0,Magadh and Awadh,1000,Delhi,Breakfast,10,25
+Salt & Smoke,4.0,Salt & Smoke,1200,Delhi,Lunch,35,25
+Chowman,4.9,Chowman,750,Delhi,Breakfast,15,25
+Mona cava,4.1,Mona cava,1500,Delhi,Dinner,25,25
+Club Gourmand,4.6,Club Gourmand,1600,Delhi,Lunch,30,25
+Capital Diner,4.7,Capital Diner,1500,Delhi,Breakfast,40,25
+Sonido,3.5,Sonido,1000,Delhi,Lunch,20,25
+Zorro,3.8,Zorro,1200,Delhi,Lunch,40,25
+Beyond Design Bistro,4.0,Beyond Design Bistro,1300,Delhi,Lunch,25,25
+Aban by Thai High,3.1,Aban by Thai High,2000,Delhi,Breakfast,30,25
+Heritage The Fine Dine,4.4,Heritage The Fine Dine,900,Delhi,Dinner,20,25
+Striker Privè,3.8,Striker Privè,1500,Delhi,Lunch,25,25
+Amritsari Haveli,3.9,Amritsari Haveli,1000,Delhi,Dinner,30,25
+Kaala Namak,3.7,Kaala Namak,1600,Delhi,Dinner,10,25
+Penthouse Dutyfree,3.5,Penthouse Dutyfree,2000,Delhi,Breakfast,20,25
+Bottle House,4.5,Bottle House,1000,Delhi,Dinner,15,25
+Rooftop - The View,4.6,Rooftop - The View,4000,Delhi,Dinner,40,25
+Cafe Another Day,4.0,Cafe Another Day,1200,Delhi,Dinner,30,25
+Saffron Stories,4.8,Saffron Stories,1600,Delhi,Dinner,20,25
+Café Bean and Basil,4.6,Café Bean and Basil,900,Delhi,Breakfast,15,25
+Punjabi Chaap Corner,4.0,Punjabi Chaap Corner,600,Delhi,Dinner,25,25
+Cafe Fleur By Varun Bahl,4.0,Cafe Fleur By Varun Bahl,1800,Delhi,Breakfast,25,25
+The Bar,4.0,The Bar,1500,Delhi,Breakfast,25,25
+Blinkk Bar and Dining,5.0,Blinkk Bar and Dining,1800,Delhi,Dinner,25,25
+Poornatva Organic Cafe And Bakery,4.0,Poornatva Organic Cafe And Bakery,1000,Delhi,Breakfast,25,25
